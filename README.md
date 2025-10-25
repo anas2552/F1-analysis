@@ -1,4 +1,4 @@
-# F1-Analysis 🏎️📊  .
+# F1-Analysis 🏎️📊  
 **Data Science Project — Formula 1 Insights (2018–2024)**  
 
 This project focuses on cleaning, analyzing, and visualizing Formula 1 datasets using Python, Pandas, and Jupyter Notebooks.  
