@@ -1,0 +1,1491 @@
+constructorStandingsId,raceId,constructorId,points,position,wins,constructorRef,name
+26936.0,989.0,1,12.0,4.0,0.0,mclaren,McLaren
+26976.0,990.0,1,22.0,3.0,0.0,mclaren,McLaren
+26966.0,991.0,1,28.0,4.0,0.0,mclaren,McLaren
+26986.0,992.0,1,36.0,4.0,0.0,mclaren,McLaren
+26996.0,993.0,1,40.0,5.0,0.0,mclaren,McLaren
+27006.0,994.0,1,40.0,5.0,0.0,mclaren,McLaren
+27016.0,995.0,1,40.0,5.0,0.0,mclaren,McLaren
+27026.0,996.0,1,40.0,5.0,0.0,mclaren,McLaren
+27036.0,997.0,1,44.0,6.0,0.0,mclaren,McLaren
+27046.0,998.0,1,48.0,7.0,0.0,mclaren,McLaren
+27056.0,999.0,1,48.0,7.0,0.0,mclaren,McLaren
+27066.0,1000.0,1,52.0,7.0,0.0,mclaren,McLaren
+27076.0,1001.0,1,52.0,6.0,0.0,mclaren,McLaren
+27096.0,1002.0,1,52.0,6.0,0.0,mclaren,McLaren
+27106.0,1003.0,1,58.0,6.0,0.0,mclaren,McLaren
+27116.0,1004.0,1,58.0,6.0,0.0,mclaren,McLaren
+27126.0,1005.0,1,58.0,6.0,0.0,mclaren,McLaren
+27146.0,1006.0,1,58.0,6.0,0.0,mclaren,McLaren
+27156.0,1007.0,1,62.0,6.0,0.0,mclaren,McLaren
+27166.0,1008.0,1,62.0,6.0,0.0,mclaren,McLaren
+27176.0,1009.0,1,62.0,6.0,0.0,mclaren,McLaren
+27201.0,1010.0,1,0.0,9.0,0.0,mclaren,McLaren
+27221.0,1011.0,1,8.0,5.0,0.0,mclaren,McLaren
+27231.0,1012.0,1,8.0,7.0,0.0,mclaren,McLaren
+27241.0,1013.0,1,18.0,4.0,0.0,mclaren,McLaren
+27251.0,1014.0,1,22.0,4.0,0.0,mclaren,McLaren
+27261.0,1015.0,1,30.0,4.0,0.0,mclaren,McLaren
+27271.0,1016.0,1,30.0,4.0,0.0,mclaren,McLaren
+27301.0,1017.0,1,40.0,4.0,0.0,mclaren,McLaren
+27311.0,1018.0,1,52.0,4.0,0.0,mclaren,McLaren
+27321.0,1019.0,1,60.0,4.0,0.0,mclaren,McLaren
+27341.0,1020.0,1,70.0,4.0,0.0,mclaren,McLaren
+27351.0,1021.0,1,82.0,4.0,0.0,mclaren,McLaren
+27361.0,1022.0,1,82.0,4.0,0.0,mclaren,McLaren
+27371.0,1023.0,1,83.0,4.0,0.0,mclaren,McLaren
+27381.0,1024.0,1,89.0,4.0,0.0,mclaren,McLaren
+27391.0,1025.0,1,101.0,4.0,0.0,mclaren,McLaren
+27421.0,1026.0,1,111.0,4.0,0.0,mclaren,McLaren
+27431.0,1027.0,1,111.0,4.0,0.0,mclaren,McLaren
+27441.0,1028.0,1,121.0,4.0,0.0,mclaren,McLaren
+27451.0,1029.0,1,140.0,4.0,0.0,mclaren,McLaren
+27461.0,1030.0,1,145.0,4.0,0.0,mclaren,McLaren
+27515.0,1034.0,1,51.0,3.0,0.0,mclaren,McLaren
+27575.0,1031.0,1,26.0,2.0,0.0,mclaren,McLaren
+27485.0,1032.0,1,39.0,2.0,0.0,mclaren,McLaren
+27505.0,1033.0,1,41.0,3.0,0.0,mclaren,McLaren
+27525.0,1035.0,1,53.0,4.0,0.0,mclaren,McLaren
+27535.0,1036.0,1,62.0,4.0,0.0,mclaren,McLaren
+27545.0,1037.0,1,68.0,3.0,0.0,mclaren,McLaren
+27555.0,1038.0,1,98.0,3.0,0.0,mclaren,McLaren
+27565.0,1039.0,1,106.0,3.0,0.0,mclaren,McLaren
+27585.0,1040.0,1,106.0,3.0,0.0,mclaren,McLaren
+27595.0,1041.0,1,116.0,4.0,0.0,mclaren,McLaren
+27605.0,1042.0,1,124.0,4.0,0.0,mclaren,McLaren
+27615.0,1043.0,1,134.0,4.0,0.0,mclaren,McLaren
+27625.0,1044.0,1,149.0,4.0,0.0,mclaren,McLaren
+27635.0,1045.0,1,171.0,3.0,0.0,mclaren,McLaren
+27645.0,1046.0,1,184.0,4.0,0.0,mclaren,McLaren
+27655.0,1047.0,1,202.0,3.0,0.0,mclaren,McLaren
+27905.0,1051.0,1,258.0,4.0,1.0,mclaren,McLaren
+27675.0,1052.0,1,18.0,3.0,0.0,mclaren,McLaren
+27705.0,1053.0,1,41.0,3.0,0.0,mclaren,McLaren
+27715.0,1054.0,1,53.0,3.0,0.0,mclaren,McLaren
+27725.0,1055.0,1,65.0,3.0,0.0,mclaren,McLaren
+27735.0,1056.0,1,80.0,3.0,0.0,mclaren,McLaren
+27745.0,1057.0,1,92.0,4.0,0.0,mclaren,McLaren
+27755.0,1059.0,1,110.0,3.0,0.0,mclaren,McLaren
+27765.0,1058.0,1,120.0,3.0,0.0,mclaren,McLaren
+27785.0,1060.0,1,141.0,3.0,0.0,mclaren,McLaren
+27795.0,1061.0,1,163.0,3.0,0.0,mclaren,McLaren
+27815.0,1062.0,1,163.0,4.0,0.0,mclaren,McLaren
+27825.0,1063.0,1,169.0,3.0,0.0,mclaren,McLaren
+27835.0,1064.0,1,170.0,4.0,0.0,mclaren,McLaren
+27845.0,1065.0,1,215.0,3.0,1.0,mclaren,McLaren
+27855.0,1066.0,1,234.0,3.0,1.0,mclaren,McLaren
+27865.0,1067.0,1,240.0,3.0,1.0,mclaren,McLaren
+27875.0,1069.0,1,254.0,3.0,1.0,mclaren,McLaren
+27885.0,1070.0,1,255.0,4.0,1.0,mclaren,McLaren
+27895.0,1071.0,1,256.0,4.0,1.0,mclaren,McLaren
+27915.0,1072.0,1,269.0,4.0,1.0,mclaren,McLaren
+27925.0,1073.0,1,275.0,4.0,1.0,mclaren,McLaren
+28141.0,1074.0,1,0.0,9.0,0.0,mclaren,McLaren
+28151.0,1075.0,1,6.0,8.0,0.0,mclaren,McLaren
+28161.0,1076.0,1,24.0,4.0,0.0,mclaren,McLaren
+28171.0,1077.0,1,46.0,4.0,0.0,mclaren,McLaren
+28181.0,1078.0,1,46.0,4.0,0.0,mclaren,McLaren
+28191.0,1079.0,1,50.0,4.0,0.0,mclaren,McLaren
+28201.0,1080.0,1,59.0,4.0,0.0,mclaren,McLaren
+28211.0,1081.0,1,65.0,4.0,0.0,mclaren,McLaren
+28231.0,1082.0,1,65.0,4.0,0.0,mclaren,McLaren
+28241.0,1083.0,1,73.0,4.0,0.0,mclaren,McLaren
+28251.0,1084.0,1,81.0,4.0,0.0,mclaren,McLaren
+28261.0,1085.0,1,89.0,5.0,0.0,mclaren,McLaren
+28271.0,1086.0,1,95.0,5.0,0.0,mclaren,McLaren
+28281.0,1087.0,1,95.0,5.0,0.0,mclaren,McLaren
+28291.0,1088.0,1,101.0,5.0,0.0,mclaren,McLaren
+28301.0,1089.0,1,107.0,5.0,0.0,mclaren,McLaren
+28311.0,1091.0,1,129.0,4.0,0.0,mclaren,McLaren
+28331.0,1092.0,1,130.0,5.0,0.0,mclaren,McLaren
+28371.0,1093.0,1,138.0,5.0,0.0,mclaren,McLaren
+28381.0,1094.0,1,146.0,5.0,0.0,mclaren,McLaren
+28391.0,1095.0,1,148.0,5.0,0.0,mclaren,McLaren
+28401.0,1096.0,1,159.0,5.0,0.0,mclaren,McLaren
+28492.0,1098.0,1,0.0,10.0,0.0,mclaren,McLaren
+28442.0,1099.0,1,0.0,10.0,0.0,mclaren,McLaren
+28452.0,1100.0,1,12.0,5.0,0.0,mclaren,McLaren
+28462.0,1101.0,1,14.0,5.0,0.0,mclaren,McLaren
+28472.0,1102.0,1,14.0,5.0,0.0,mclaren,McLaren
+28482.0,1104.0,1,17.0,6.0,0.0,mclaren,McLaren
+28502.0,1105.0,1,17.0,6.0,0.0,mclaren,McLaren
+28522.0,1106.0,1,17.0,6.0,0.0,mclaren,McLaren
+28542.0,1107.0,1,29.0,6.0,0.0,mclaren,McLaren
+28552.0,1108.0,1,59.0,5.0,0.0,mclaren,McLaren
+28562.0,1109.0,1,87.0,5.0,0.0,mclaren,McLaren
+28572.0,1110.0,1,103.0,5.0,0.0,mclaren,McLaren
+28582.0,1111.0,1,111.0,5.0,0.0,mclaren,McLaren
+28592.0,1112.0,1,115.0,5.0,0.0,mclaren,McLaren
+28602.0,1113.0,1,139.0,5.0,0.0,mclaren,McLaren
+28612.0,1114.0,1,172.0,5.0,0.0,mclaren,McLaren
+28662.0,1115.0,1,219.0,5.0,0.0,mclaren,McLaren
+28672.0,1116.0,1,242.0,4.0,0.0,mclaren,McLaren
+28682.0,1117.0,1,256.0,4.0,0.0,mclaren,McLaren
+28692.0,1118.0,1,282.0,4.0,0.0,mclaren,McLaren
+28702.0,1119.0,1,284.0,4.0,0.0,mclaren,McLaren
+28712.0,1120.0,1,302.0,4.0,0.0,mclaren,McLaren
+28716.0,1121.0,1,12.0,4.0,0.0,mclaren,McLaren
+28726.0,1122.0,1,28.0,3.0,0.0,mclaren,McLaren
+28746.0,1123.0,1,55.0,3.0,0.0,mclaren,McLaren
+28756.0,1124.0,1,69.0,3.0,0.0,mclaren,McLaren
+28776.0,1125.0,1,96.0,3.0,0.0,mclaren,McLaren
+28786.0,1126.0,1,124.0,3.0,1.0,mclaren,McLaren
+28796.0,1127.0,1,154.0,3.0,1.0,mclaren,McLaren
+28806.0,1128.0,1,184.0,3.0,1.0,mclaren,McLaren
+28816.0,1129.0,1,212.0,3.0,1.0,mclaren,McLaren
+28826.0,1130.0,1,237.0,3.0,1.0,mclaren,McLaren
+28836.0,1131.0,1,268.0,3.0,1.0,mclaren,McLaren
+28846.0,1132.0,1,295.0,3.0,1.0,mclaren,McLaren
+28856.0,1133.0,1,338.0,2.0,2.0,mclaren,McLaren
+28876.0,1134.0,1,366.0,2.0,2.0,mclaren,McLaren
+28886.0,1135.0,1,404.0,2.0,3.0,mclaren,McLaren
+28896.0,1136.0,1,438.0,2.0,3.0,mclaren,McLaren
+28906.0,1137.0,1,476.0,1.0,4.0,mclaren,McLaren
+28916.0,1138.0,1,516.0,1.0,5.0,mclaren,McLaren
+28926.0,1139.0,1,544.0,1.0,5.0,mclaren,McLaren
+28936.0,1140.0,1,566.0,1.0,5.0,mclaren,McLaren
+28946.0,1141.0,1,593.0,1.0,5.0,mclaren,McLaren
+28956.0,1142.0,1,608.0,1.0,5.0,mclaren,McLaren
+28966.0,1143.0,1,640.0,1.0,5.0,mclaren,McLaren
+28976.0,1144.0,1,666.0,1.0,6.0,mclaren,McLaren
+26940.0,989.0,3,0.0,8.0,0.0,williams,Williams
+26980.0,990.0,3,0.0,10.0,0.0,williams,Williams
+26970.0,991.0,3,0.0,10.0,0.0,williams,Williams
+26990.0,992.0,3,4.0,10.0,0.0,williams,Williams
+27000.0,993.0,3,4.0,10.0,0.0,williams,Williams
+27010.0,994.0,3,4.0,10.0,0.0,williams,Williams
+27020.0,995.0,3,4.0,10.0,0.0,williams,Williams
+27030.0,996.0,3,4.0,10.0,0.0,williams,Williams
+27040.0,997.0,3,4.0,10.0,0.0,williams,Williams
+27050.0,998.0,3,4.0,10.0,0.0,williams,Williams
+27060.0,999.0,3,4.0,10.0,0.0,williams,Williams
+27070.0,1000.0,3,4.0,10.0,0.0,williams,Williams
+27080.0,1001.0,3,4.0,10.0,0.0,williams,Williams
+27100.0,1002.0,3,7.0,10.0,0.0,williams,Williams
+27110.0,1003.0,3,7.0,10.0,0.0,williams,Williams
+27120.0,1004.0,3,7.0,10.0,0.0,williams,Williams
+27130.0,1005.0,3,7.0,10.0,0.0,williams,Williams
+27150.0,1006.0,3,7.0,10.0,0.0,williams,Williams
+27160.0,1007.0,3,7.0,10.0,0.0,williams,Williams
+27170.0,1008.0,3,7.0,10.0,0.0,williams,Williams
+27180.0,1009.0,3,7.0,10.0,0.0,williams,Williams
+27202.0,1010.0,3,0.0,10.0,0.0,williams,Williams
+27222.0,1011.0,3,0.0,10.0,0.0,williams,Williams
+27232.0,1012.0,3,0.0,10.0,0.0,williams,Williams
+27242.0,1013.0,3,0.0,10.0,0.0,williams,Williams
+27252.0,1014.0,3,0.0,10.0,0.0,williams,Williams
+27262.0,1015.0,3,0.0,10.0,0.0,williams,Williams
+27272.0,1016.0,3,0.0,10.0,0.0,williams,Williams
+27302.0,1017.0,3,0.0,10.0,0.0,williams,Williams
+27312.0,1018.0,3,0.0,10.0,0.0,williams,Williams
+27322.0,1019.0,3,0.0,10.0,0.0,williams,Williams
+27342.0,1020.0,3,1.0,10.0,0.0,williams,Williams
+27352.0,1021.0,3,1.0,10.0,0.0,williams,Williams
+27362.0,1022.0,3,1.0,10.0,0.0,williams,Williams
+27372.0,1023.0,3,1.0,10.0,0.0,williams,Williams
+27382.0,1024.0,3,1.0,10.0,0.0,williams,Williams
+27392.0,1025.0,3,1.0,10.0,0.0,williams,Williams
+27422.0,1026.0,3,1.0,10.0,0.0,williams,Williams
+27432.0,1027.0,3,1.0,10.0,0.0,williams,Williams
+27442.0,1028.0,3,1.0,10.0,0.0,williams,Williams
+27452.0,1029.0,3,1.0,10.0,0.0,williams,Williams
+27462.0,1030.0,3,1.0,10.0,0.0,williams,Williams
+27520.0,1034.0,3,0.0,10.0,0.0,williams,Williams
+27580.0,1031.0,3,0.0,8.0,0.0,williams,Williams
+27490.0,1032.0,3,0.0,9.0,0.0,williams,Williams
+27510.0,1033.0,3,0.0,10.0,0.0,williams,Williams
+27530.0,1035.0,3,0.0,10.0,0.0,williams,Williams
+27540.0,1036.0,3,0.0,10.0,0.0,williams,Williams
+27550.0,1037.0,3,0.0,10.0,0.0,williams,Williams
+27560.0,1038.0,3,0.0,10.0,0.0,williams,Williams
+27570.0,1039.0,3,0.0,10.0,0.0,williams,Williams
+27590.0,1040.0,3,0.0,10.0,0.0,williams,Williams
+27600.0,1041.0,3,0.0,10.0,0.0,williams,Williams
+27610.0,1042.0,3,0.0,10.0,0.0,williams,Williams
+27620.0,1043.0,3,0.0,10.0,0.0,williams,Williams
+27630.0,1044.0,3,0.0,10.0,0.0,williams,Williams
+27640.0,1045.0,3,0.0,10.0,0.0,williams,Williams
+27650.0,1046.0,3,0.0,10.0,0.0,williams,Williams
+27660.0,1047.0,3,0.0,10.0,0.0,williams,Williams
+27911.0,1051.0,3,23.0,8.0,0.0,williams,Williams
+27681.0,1052.0,3,0.0,9.0,0.0,williams,Williams
+27711.0,1053.0,3,0.0,9.0,0.0,williams,Williams
+27721.0,1054.0,3,0.0,9.0,0.0,williams,Williams
+27731.0,1055.0,3,0.0,9.0,0.0,williams,Williams
+27741.0,1056.0,3,0.0,9.0,0.0,williams,Williams
+27751.0,1057.0,3,0.0,10.0,0.0,williams,Williams
+27761.0,1059.0,3,0.0,9.0,0.0,williams,Williams
+27771.0,1058.0,3,0.0,9.0,0.0,williams,Williams
+27791.0,1060.0,3,0.0,9.0,0.0,williams,Williams
+27801.0,1061.0,3,0.0,9.0,0.0,williams,Williams
+27821.0,1062.0,3,10.0,8.0,0.0,williams,Williams
+27831.0,1063.0,3,20.0,8.0,0.0,williams,Williams
+27841.0,1064.0,3,20.0,8.0,0.0,williams,Williams
+27851.0,1065.0,3,22.0,8.0,0.0,williams,Williams
+27861.0,1066.0,3,23.0,8.0,0.0,williams,Williams
+27871.0,1067.0,3,23.0,8.0,0.0,williams,Williams
+27881.0,1069.0,3,23.0,8.0,0.0,williams,Williams
+27891.0,1070.0,3,23.0,8.0,0.0,williams,Williams
+27901.0,1071.0,3,23.0,8.0,0.0,williams,Williams
+27921.0,1072.0,3,23.0,8.0,0.0,williams,Williams
+27931.0,1073.0,3,23.0,8.0,0.0,williams,Williams
+28140.0,1074.0,3,0.0,8.0,0.0,williams,Williams
+28150.0,1075.0,3,0.0,10.0,0.0,williams,Williams
+28160.0,1076.0,3,1.0,9.0,0.0,williams,Williams
+28170.0,1077.0,3,1.0,10.0,0.0,williams,Williams
+28180.0,1078.0,3,3.0,10.0,0.0,williams,Williams
+28190.0,1079.0,3,3.0,10.0,0.0,williams,Williams
+28200.0,1080.0,3,3.0,10.0,0.0,williams,Williams
+28210.0,1081.0,3,3.0,10.0,0.0,williams,Williams
+28230.0,1082.0,3,3.0,10.0,0.0,williams,Williams
+28240.0,1083.0,3,3.0,10.0,0.0,williams,Williams
+28250.0,1084.0,3,3.0,10.0,0.0,williams,Williams
+28260.0,1085.0,3,3.0,10.0,0.0,williams,Williams
+28270.0,1086.0,3,3.0,10.0,0.0,williams,Williams
+28280.0,1087.0,3,4.0,10.0,0.0,williams,Williams
+28290.0,1088.0,3,4.0,10.0,0.0,williams,Williams
+28300.0,1089.0,3,6.0,10.0,0.0,williams,Williams
+28310.0,1091.0,3,6.0,10.0,0.0,williams,Williams
+28330.0,1092.0,3,8.0,10.0,0.0,williams,Williams
+28370.0,1093.0,3,8.0,10.0,0.0,williams,Williams
+28380.0,1094.0,3,8.0,10.0,0.0,williams,Williams
+28390.0,1095.0,3,8.0,10.0,0.0,williams,Williams
+28400.0,1096.0,3,8.0,10.0,0.0,williams,Williams
+28489.0,1098.0,3,1.0,7.0,0.0,williams,Williams
+28439.0,1099.0,3,1.0,8.0,0.0,williams,Williams
+28449.0,1100.0,3,1.0,10.0,0.0,williams,Williams
+28459.0,1101.0,3,1.0,10.0,0.0,williams,Williams
+28469.0,1102.0,3,1.0,10.0,0.0,williams,Williams
+28479.0,1104.0,3,1.0,10.0,0.0,williams,Williams
+28499.0,1105.0,3,1.0,10.0,0.0,williams,Williams
+28519.0,1106.0,3,7.0,9.0,0.0,williams,Williams
+28539.0,1107.0,3,7.0,9.0,0.0,williams,Williams
+28549.0,1108.0,3,11.0,7.0,0.0,williams,Williams
+28559.0,1109.0,3,11.0,7.0,0.0,williams,Williams
+28569.0,1110.0,3,11.0,7.0,0.0,williams,Williams
+28579.0,1111.0,3,15.0,7.0,0.0,williams,Williams
+28589.0,1112.0,3,21.0,7.0,0.0,williams,Williams
+28599.0,1113.0,3,21.0,7.0,0.0,williams,Williams
+28609.0,1114.0,3,21.0,7.0,0.0,williams,Williams
+28659.0,1115.0,3,23.0,7.0,0.0,williams,Williams
+28669.0,1116.0,3,26.0,7.0,0.0,williams,Williams
+28679.0,1117.0,3,28.0,7.0,0.0,williams,Williams
+28689.0,1118.0,3,28.0,7.0,0.0,williams,Williams
+28699.0,1119.0,3,28.0,7.0,0.0,williams,Williams
+28709.0,1120.0,3,28.0,7.0,0.0,williams,Williams
+28721.0,1121.0,3,0.0,9.0,0.0,williams,Williams
+28731.0,1122.0,3,0.0,7.0,0.0,williams,Williams
+28751.0,1123.0,3,0.0,8.0,0.0,williams,Williams
+28761.0,1124.0,3,0.0,8.0,0.0,williams,Williams
+28781.0,1125.0,3,0.0,8.0,0.0,williams,Williams
+28791.0,1126.0,3,0.0,9.0,0.0,williams,Williams
+28801.0,1127.0,3,0.0,9.0,0.0,williams,Williams
+28811.0,1128.0,3,2.0,8.0,0.0,williams,Williams
+28821.0,1129.0,3,2.0,9.0,0.0,williams,Williams
+28831.0,1130.0,3,2.0,9.0,0.0,williams,Williams
+28841.0,1131.0,3,2.0,9.0,0.0,williams,Williams
+28851.0,1132.0,3,4.0,9.0,0.0,williams,Williams
+28861.0,1133.0,3,4.0,9.0,0.0,williams,Williams
+28881.0,1134.0,3,4.0,9.0,0.0,williams,Williams
+28891.0,1135.0,3,4.0,9.0,0.0,williams,Williams
+28901.0,1136.0,3,6.0,9.0,0.0,williams,Williams
+28911.0,1137.0,3,16.0,8.0,0.0,williams,Williams
+28921.0,1138.0,3,16.0,8.0,0.0,williams,Williams
+28931.0,1139.0,3,17.0,8.0,0.0,williams,Williams
+28941.0,1140.0,3,17.0,8.0,0.0,williams,Williams
+28951.0,1141.0,3,17.0,9.0,0.0,williams,Williams
+28961.0,1142.0,3,17.0,9.0,0.0,williams,Williams
+28971.0,1143.0,3,17.0,9.0,0.0,williams,Williams
+28981.0,1144.0,3,17.0,9.0,0.0,williams,Williams
+26937.0,989.0,4,7.0,5.0,0.0,renault,Renault
+26977.0,990.0,4,15.0,5.0,0.0,renault,Renault
+26967.0,991.0,4,25.0,5.0,0.0,renault,Renault
+26987.0,992.0,4,35.0,5.0,0.0,renault,Renault
+26997.0,993.0,4,41.0,4.0,0.0,renault,Renault
+27007.0,994.0,4,46.0,4.0,0.0,renault,Renault
+27017.0,995.0,4,56.0,4.0,0.0,renault,Renault
+27027.0,996.0,4,62.0,4.0,0.0,renault,Renault
+27037.0,997.0,4,62.0,4.0,0.0,renault,Renault
+27047.0,998.0,4,70.0,4.0,0.0,renault,Renault
+27057.0,999.0,4,80.0,4.0,0.0,renault,Renault
+27067.0,1000.0,4,82.0,4.0,0.0,renault,Renault
+27077.0,1001.0,4,82.0,4.0,0.0,renault,Renault
+27097.0,1002.0,4,86.0,4.0,0.0,renault,Renault
+27107.0,1003.0,4,91.0,4.0,0.0,renault,Renault
+27117.0,1004.0,4,91.0,4.0,0.0,renault,Renault
+27127.0,1005.0,4,92.0,4.0,0.0,renault,Renault
+27147.0,1006.0,4,106.0,4.0,0.0,renault,Renault
+27157.0,1007.0,4,114.0,4.0,0.0,renault,Renault
+27167.0,1008.0,4,114.0,4.0,0.0,renault,Renault
+27177.0,1009.0,4,122.0,4.0,0.0,renault,Renault
+27197.0,1010.0,4,6.0,5.0,0.0,renault,Renault
+27217.0,1011.0,4,6.0,7.0,0.0,renault,Renault
+27227.0,1012.0,4,12.0,4.0,0.0,renault,Renault
+27237.0,1013.0,4,12.0,7.0,0.0,renault,Renault
+27247.0,1014.0,4,12.0,8.0,0.0,renault,Renault
+27257.0,1015.0,4,14.0,8.0,0.0,renault,Renault
+27267.0,1016.0,4,28.0,5.0,0.0,renault,Renault
+27297.0,1017.0,4,32.0,5.0,0.0,renault,Renault
+27307.0,1018.0,4,32.0,5.0,0.0,renault,Renault
+27317.0,1019.0,4,39.0,5.0,0.0,renault,Renault
+27337.0,1020.0,4,39.0,6.0,0.0,renault,Renault
+27347.0,1021.0,4,39.0,6.0,0.0,renault,Renault
+27357.0,1022.0,4,43.0,6.0,0.0,renault,Renault
+27367.0,1023.0,4,65.0,5.0,0.0,renault,Renault
+27377.0,1024.0,4,67.0,5.0,0.0,renault,Renault
+27387.0,1025.0,4,68.0,5.0,0.0,renault,Renault
+27417.0,1026.0,4,68.0,5.0,0.0,renault,Renault
+27427.0,1027.0,4,73.0,5.0,0.0,renault,Renault
+27437.0,1028.0,4,83.0,5.0,0.0,renault,Renault
+27447.0,1029.0,4,91.0,5.0,0.0,renault,Renault
+27457.0,1030.0,4,91.0,5.0,0.0,renault,Renault
+27518.0,1034.0,4,32.0,6.0,0.0,renault,Renault
+27578.0,1031.0,4,4.0,6.0,0.0,renault,Renault
+27488.0,1032.0,4,8.0,6.0,0.0,renault,Renault
+27508.0,1033.0,4,12.0,6.0,0.0,renault,Renault
+27528.0,1035.0,4,36.0,6.0,0.0,renault,Renault
+27538.0,1036.0,4,36.0,6.0,0.0,renault,Renault
+27548.0,1037.0,4,59.0,6.0,0.0,renault,Renault
+27558.0,1038.0,4,71.0,5.0,0.0,renault,Renault
+27568.0,1039.0,4,83.0,5.0,0.0,renault,Renault
+27588.0,1040.0,4,99.0,5.0,0.0,renault,Renault
+27598.0,1041.0,4,114.0,5.0,0.0,renault,Renault
+27608.0,1042.0,4,120.0,5.0,0.0,renault,Renault
+27618.0,1043.0,4,135.0,3.0,0.0,renault,Renault
+27628.0,1044.0,4,136.0,5.0,0.0,renault,Renault
+27638.0,1045.0,4,144.0,5.0,0.0,renault,Renault
+27648.0,1046.0,4,172.0,5.0,0.0,renault,Renault
+27658.0,1047.0,4,181.0,5.0,0.0,renault,Renault
+26941.0,989.0,5,0.0,9.0,0.0,toro_rosso,Toro Rosso
+26981.0,990.0,5,12.0,6.0,0.0,toro_rosso,Toro Rosso
+26971.0,991.0,5,12.0,6.0,0.0,toro_rosso,Toro Rosso
+26991.0,992.0,5,13.0,7.0,0.0,toro_rosso,Toro Rosso
+27001.0,993.0,5,13.0,8.0,0.0,toro_rosso,Toro Rosso
+27011.0,994.0,5,19.0,7.0,0.0,toro_rosso,Toro Rosso
+27021.0,995.0,5,19.0,7.0,0.0,toro_rosso,Toro Rosso
+27031.0,996.0,5,19.0,8.0,0.0,toro_rosso,Toro Rosso
+27041.0,997.0,5,19.0,8.0,0.0,toro_rosso,Toro Rosso
+27051.0,998.0,5,19.0,8.0,0.0,toro_rosso,Toro Rosso
+27061.0,999.0,5,20.0,8.0,0.0,toro_rosso,Toro Rosso
+27071.0,1000.0,5,28.0,8.0,0.0,toro_rosso,Toro Rosso
+27081.0,1001.0,5,30.0,7.0,0.0,toro_rosso,Toro Rosso
+27101.0,1002.0,5,30.0,8.0,0.0,toro_rosso,Toro Rosso
+27111.0,1003.0,5,30.0,8.0,0.0,toro_rosso,Toro Rosso
+27121.0,1004.0,5,30.0,8.0,0.0,toro_rosso,Toro Rosso
+27131.0,1005.0,5,30.0,8.0,0.0,toro_rosso,Toro Rosso
+27151.0,1006.0,5,32.0,8.0,0.0,toro_rosso,Toro Rosso
+27161.0,1007.0,5,33.0,9.0,0.0,toro_rosso,Toro Rosso
+27171.0,1008.0,5,33.0,9.0,0.0,toro_rosso,Toro Rosso
+27181.0,1009.0,5,33.0,9.0,0.0,toro_rosso,Toro Rosso
+27200.0,1010.0,5,1.0,8.0,0.0,toro_rosso,Toro Rosso
+27220.0,1011.0,5,3.0,8.0,0.0,toro_rosso,Toro Rosso
+27230.0,1012.0,5,4.0,9.0,0.0,toro_rosso,Toro Rosso
+27240.0,1013.0,5,4.0,9.0,0.0,toro_rosso,Toro Rosso
+27250.0,1014.0,5,6.0,9.0,0.0,toro_rosso,Toro Rosso
+27260.0,1015.0,5,16.0,7.0,0.0,toro_rosso,Toro Rosso
+27270.0,1016.0,5,17.0,7.0,0.0,toro_rosso,Toro Rosso
+27300.0,1017.0,5,17.0,8.0,0.0,toro_rosso,Toro Rosso
+27310.0,1018.0,5,17.0,8.0,0.0,toro_rosso,Toro Rosso
+27320.0,1019.0,5,19.0,8.0,0.0,toro_rosso,Toro Rosso
+27340.0,1020.0,5,42.0,5.0,0.0,toro_rosso,Toro Rosso
+27350.0,1021.0,5,43.0,5.0,0.0,toro_rosso,Toro Rosso
+27360.0,1022.0,5,51.0,5.0,0.0,toro_rosso,Toro Rosso
+27370.0,1023.0,5,51.0,6.0,0.0,toro_rosso,Toro Rosso
+27380.0,1024.0,5,55.0,6.0,0.0,toro_rosso,Toro Rosso
+27390.0,1025.0,5,55.0,6.0,0.0,toro_rosso,Toro Rosso
+27420.0,1026.0,5,62.0,6.0,0.0,toro_rosso,Toro Rosso
+27430.0,1027.0,5,64.0,6.0,0.0,toro_rosso,Toro Rosso
+27440.0,1028.0,5,64.0,7.0,0.0,toro_rosso,Toro Rosso
+27450.0,1029.0,5,83.0,6.0,0.0,toro_rosso,Toro Rosso
+27460.0,1030.0,5,85.0,6.0,0.0,toro_rosso,Toro Rosso
+26933.0,989.0,6,40.0,1.0,1.0,ferrari,Ferrari
+26973.0,990.0,6,65.0,1.0,2.0,ferrari,Ferrari
+26963.0,991.0,6,84.0,2.0,2.0,ferrari,Ferrari
+26983.0,992.0,6,114.0,1.0,2.0,ferrari,Ferrari
+26993.0,993.0,6,126.0,2.0,2.0,ferrari,Ferrari
+27003.0,994.0,6,156.0,2.0,2.0,ferrari,Ferrari
+27013.0,995.0,6,189.0,2.0,3.0,ferrari,Ferrari
+27023.0,996.0,6,214.0,2.0,3.0,ferrari,Ferrari
+27033.0,997.0,6,247.0,1.0,3.0,ferrari,Ferrari
+27043.0,998.0,6,287.0,1.0,4.0,ferrari,Ferrari
+27053.0,999.0,6,302.0,2.0,4.0,ferrari,Ferrari
+27063.0,1000.0,6,335.0,2.0,4.0,ferrari,Ferrari
+27073.0,1001.0,6,360.0,2.0,5.0,ferrari,Ferrari
+27093.0,1002.0,6,390.0,2.0,5.0,ferrari,Ferrari
+27103.0,1003.0,6,415.0,2.0,5.0,ferrari,Ferrari
+27113.0,1004.0,6,442.0,2.0,5.0,ferrari,Ferrari
+27123.0,1005.0,6,460.0,2.0,5.0,ferrari,Ferrari
+27143.0,1006.0,6,497.0,2.0,6.0,ferrari,Ferrari
+27153.0,1007.0,6,530.0,2.0,6.0,ferrari,Ferrari
+27163.0,1008.0,6,553.0,2.0,6.0,ferrari,Ferrari
+27173.0,1009.0,6,571.0,2.0,6.0,ferrari,Ferrari
+27195.0,1010.0,6,22.0,2.0,0.0,ferrari,Ferrari
+27215.0,1011.0,6,48.0,2.0,0.0,ferrari,Ferrari
+27225.0,1012.0,6,73.0,2.0,0.0,ferrari,Ferrari
+27235.0,1013.0,6,99.0,2.0,0.0,ferrari,Ferrari
+27245.0,1014.0,6,121.0,2.0,0.0,ferrari,Ferrari
+27255.0,1015.0,6,139.0,2.0,0.0,ferrari,Ferrari
+27265.0,1016.0,6,172.0,2.0,0.0,ferrari,Ferrari
+27295.0,1017.0,6,198.0,2.0,0.0,ferrari,Ferrari
+27305.0,1018.0,6,228.0,2.0,0.0,ferrari,Ferrari
+27315.0,1019.0,6,243.0,2.0,0.0,ferrari,Ferrari
+27335.0,1020.0,6,261.0,2.0,0.0,ferrari,Ferrari
+27345.0,1021.0,6,288.0,2.0,0.0,ferrari,Ferrari
+27355.0,1022.0,6,326.0,2.0,1.0,ferrari,Ferrari
+27365.0,1023.0,6,351.0,2.0,2.0,ferrari,Ferrari
+27375.0,1024.0,6,394.0,2.0,3.0,ferrari,Ferrari
+27385.0,1025.0,6,409.0,2.0,3.0,ferrari,Ferrari
+27415.0,1026.0,6,435.0,2.0,3.0,ferrari,Ferrari
+27425.0,1027.0,6,466.0,2.0,3.0,ferrari,Ferrari
+27435.0,1028.0,6,479.0,2.0,3.0,ferrari,Ferrari
+27445.0,1029.0,6,479.0,2.0,3.0,ferrari,Ferrari
+27455.0,1030.0,6,504.0,2.0,3.0,ferrari,Ferrari
+27514.0,1034.0,6,43.0,4.0,0.0,ferrari,Ferrari
+27574.0,1031.0,6,19.0,3.0,0.0,ferrari,Ferrari
+27484.0,1032.0,6,19.0,5.0,0.0,ferrari,Ferrari
+27504.0,1033.0,6,27.0,5.0,0.0,ferrari,Ferrari
+27524.0,1035.0,6,55.0,3.0,0.0,ferrari,Ferrari
+27534.0,1036.0,6,61.0,5.0,0.0,ferrari,Ferrari
+27544.0,1037.0,6,61.0,5.0,0.0,ferrari,Ferrari
+27554.0,1038.0,6,61.0,6.0,0.0,ferrari,Ferrari
+27564.0,1039.0,6,66.0,6.0,0.0,ferrari,Ferrari
+27584.0,1040.0,6,74.0,6.0,0.0,ferrari,Ferrari
+27594.0,1041.0,6,80.0,6.0,0.0,ferrari,Ferrari
+27604.0,1042.0,6,93.0,6.0,0.0,ferrari,Ferrari
+27614.0,1043.0,6,103.0,6.0,0.0,ferrari,Ferrari
+27624.0,1044.0,6,130.0,6.0,0.0,ferrari,Ferrari
+27634.0,1045.0,6,131.0,6.0,0.0,ferrari,Ferrari
+27644.0,1046.0,6,131.0,6.0,0.0,ferrari,Ferrari
+27654.0,1047.0,6,131.0,6.0,0.0,ferrari,Ferrari
+27906.0,1051.0,6,297.5,3.0,0.0,ferrari,Ferrari
+27676.0,1052.0,6,12.0,4.0,0.0,ferrari,Ferrari
+27706.0,1053.0,6,34.0,4.0,0.0,ferrari,Ferrari
+27716.0,1054.0,6,42.0,4.0,0.0,ferrari,Ferrari
+27726.0,1055.0,6,60.0,4.0,0.0,ferrari,Ferrari
+27736.0,1056.0,6,78.0,4.0,0.0,ferrari,Ferrari
+27746.0,1057.0,6,94.0,3.0,0.0,ferrari,Ferrari
+27756.0,1059.0,6,94.0,4.0,0.0,ferrari,Ferrari
+27766.0,1058.0,6,108.0,4.0,0.0,ferrari,Ferrari
+27786.0,1060.0,6,122.0,4.0,0.0,ferrari,Ferrari
+27796.0,1061.0,6,148.0,4.0,0.0,ferrari,Ferrari
+27816.0,1062.0,6,163.0,3.0,0.0,ferrari,Ferrari
+27826.0,1063.0,6,165.5,4.0,0.0,ferrari,Ferrari
+27836.0,1064.0,6,181.5,3.0,0.0,ferrari,Ferrari
+27846.0,1065.0,6,201.5,4.0,0.0,ferrari,Ferrari
+27856.0,1066.0,6,216.5,4.0,0.0,ferrari,Ferrari
+27866.0,1067.0,6,232.5,4.0,0.0,ferrari,Ferrari
+27876.0,1069.0,6,250.5,4.0,0.0,ferrari,Ferrari
+27886.0,1070.0,6,268.5,3.0,0.0,ferrari,Ferrari
+27896.0,1071.0,6,287.5,3.0,0.0,ferrari,Ferrari
+27916.0,1072.0,6,307.5,3.0,0.0,ferrari,Ferrari
+27926.0,1073.0,6,323.5,3.0,0.0,ferrari,Ferrari
+28133.0,1074.0,6,44.0,1.0,1.0,ferrari,Ferrari
+28143.0,1075.0,6,78.0,1.0,1.0,ferrari,Ferrari
+28153.0,1076.0,6,104.0,1.0,2.0,ferrari,Ferrari
+28163.0,1077.0,6,124.0,1.0,2.0,ferrari,Ferrari
+28173.0,1078.0,6,157.0,1.0,2.0,ferrari,Ferrari
+28183.0,1079.0,6,169.0,2.0,2.0,ferrari,Ferrari
+28193.0,1080.0,6,199.0,2.0,2.0,ferrari,Ferrari
+28203.0,1081.0,6,199.0,2.0,2.0,ferrari,Ferrari
+28223.0,1082.0,6,228.0,2.0,2.0,ferrari,Ferrari
+28233.0,1083.0,6,265.0,2.0,3.0,ferrari,Ferrari
+28243.0,1084.0,6,303.0,2.0,4.0,ferrari,Ferrari
+28253.0,1085.0,6,314.0,2.0,4.0,ferrari,Ferrari
+28263.0,1086.0,6,334.0,2.0,4.0,ferrari,Ferrari
+28273.0,1087.0,6,357.0,2.0,4.0,ferrari,Ferrari
+28283.0,1088.0,6,376.0,2.0,4.0,ferrari,Ferrari
+28293.0,1089.0,6,406.0,2.0,4.0,ferrari,Ferrari
+28303.0,1091.0,6,439.0,2.0,4.0,ferrari,Ferrari
+28323.0,1092.0,6,454.0,2.0,4.0,ferrari,Ferrari
+28363.0,1093.0,6,469.0,2.0,4.0,ferrari,Ferrari
+28373.0,1094.0,6,487.0,2.0,4.0,ferrari,Ferrari
+28383.0,1095.0,6,524.0,2.0,4.0,ferrari,Ferrari
+28393.0,1096.0,6,554.0,2.0,4.0,ferrari,Ferrari
+28485.0,1098.0,6,12.0,4.0,0.0,ferrari,Ferrari
+28435.0,1099.0,6,26.0,4.0,0.0,ferrari,Ferrari
+28445.0,1100.0,6,26.0,4.0,0.0,ferrari,Ferrari
+28455.0,1101.0,6,62.0,4.0,0.0,ferrari,Ferrari
+28465.0,1102.0,6,78.0,4.0,0.0,ferrari,Ferrari
+28475.0,1104.0,6,90.0,4.0,0.0,ferrari,Ferrari
+28495.0,1105.0,6,100.0,4.0,0.0,ferrari,Ferrari
+28515.0,1106.0,6,122.0,4.0,0.0,ferrari,Ferrari
+28535.0,1107.0,6,154.0,4.0,0.0,ferrari,Ferrari
+28545.0,1108.0,6,157.0,4.0,0.0,ferrari,Ferrari
+28555.0,1109.0,6,167.0,4.0,0.0,ferrari,Ferrari
+28565.0,1110.0,6,191.0,4.0,0.0,ferrari,Ferrari
+28575.0,1111.0,6,201.0,4.0,0.0,ferrari,Ferrari
+28585.0,1112.0,6,228.0,3.0,0.0,ferrari,Ferrari
+28595.0,1113.0,6,265.0,3.0,1.0,ferrari,Ferrari
+28605.0,1114.0,6,285.0,3.0,1.0,ferrari,Ferrari
+28655.0,1115.0,6,298.0,3.0,1.0,ferrari,Ferrari
+28665.0,1116.0,6,322.0,3.0,1.0,ferrari,Ferrari
+28675.0,1117.0,6,349.0,3.0,1.0,ferrari,Ferrari
+28685.0,1118.0,6,362.0,3.0,1.0,ferrari,Ferrari
+28695.0,1119.0,6,388.0,3.0,1.0,ferrari,Ferrari
+28705.0,1120.0,6,406.0,3.0,1.0,ferrari,Ferrari
+28714.0,1121.0,6,27.0,2.0,0.0,ferrari,Ferrari
+28724.0,1122.0,6,49.0,2.0,0.0,ferrari,Ferrari
+28744.0,1123.0,6,93.0,2.0,1.0,ferrari,Ferrari
+28754.0,1124.0,6,120.0,2.0,1.0,ferrari,Ferrari
+28784.0,1126.0,6,187.0,2.0,1.0,ferrari,Ferrari
+28774.0,1125.0,6,151.0,2.0,1.0,ferrari,Ferrari
+28794.0,1127.0,6,212.0,2.0,1.0,ferrari,Ferrari
+28804.0,1128.0,6,252.0,2.0,2.0,ferrari,Ferrari
+28814.0,1129.0,6,252.0,2.0,2.0,ferrari,Ferrari
+28824.0,1130.0,6,270.0,2.0,2.0,ferrari,Ferrari
+28834.0,1131.0,6,291.0,2.0,2.0,ferrari,Ferrari
+28844.0,1132.0,6,302.0,2.0,2.0,ferrari,Ferrari
+28854.0,1133.0,6,322.0,3.0,2.0,ferrari,Ferrari
+28874.0,1134.0,6,345.0,3.0,2.0,ferrari,Ferrari
+28884.0,1135.0,6,370.0,3.0,2.0,ferrari,Ferrari
+28894.0,1136.0,6,407.0,3.0,3.0,ferrari,Ferrari
+28904.0,1137.0,6,425.0,3.0,3.0,ferrari,Ferrari
+28914.0,1138.0,6,441.0,3.0,3.0,ferrari,Ferrari
+28924.0,1139.0,6,496.0,3.0,4.0,ferrari,Ferrari
+28934.0,1140.0,6,537.0,2.0,5.0,ferrari,Ferrari
+28944.0,1141.0,6,557.0,2.0,5.0,ferrari,Ferrari
+28954.0,1142.0,6,584.0,2.0,5.0,ferrari,Ferrari
+28964.0,1143.0,6,619.0,2.0,5.0,ferrari,Ferrari
+28974.0,1144.0,6,652.0,2.0,5.0,ferrari,Ferrari
+26935.0,989.0,9,20.0,3.0,0.0,red_bull,Red Bull
+26975.0,990.0,9,20.0,4.0,0.0,red_bull,Red Bull
+26965.0,991.0,9,55.0,3.0,1.0,red_bull,Red Bull
+26985.0,992.0,9,55.0,3.0,1.0,red_bull,Red Bull
+26995.0,993.0,9,80.0,3.0,1.0,red_bull,Red Bull
+27005.0,994.0,9,107.0,3.0,2.0,red_bull,Red Bull
+27015.0,995.0,9,134.0,3.0,2.0,red_bull,Red Bull
+27025.0,996.0,9,164.0,3.0,2.0,red_bull,Red Bull
+27035.0,997.0,9,189.0,3.0,3.0,red_bull,Red Bull
+27045.0,998.0,9,199.0,3.0,3.0,red_bull,Red Bull
+27055.0,999.0,9,211.0,3.0,3.0,red_bull,Red Bull
+27065.0,1000.0,9,223.0,3.0,3.0,red_bull,Red Bull
+27075.0,1001.0,9,238.0,3.0,3.0,red_bull,Red Bull
+27095.0,1002.0,9,248.0,3.0,3.0,red_bull,Red Bull
+27105.0,1003.0,9,274.0,3.0,3.0,red_bull,Red Bull
+27115.0,1004.0,9,292.0,3.0,3.0,red_bull,Red Bull
+27125.0,1005.0,9,319.0,3.0,3.0,red_bull,Red Bull
+27145.0,1006.0,9,337.0,3.0,3.0,red_bull,Red Bull
+27155.0,1007.0,9,362.0,3.0,4.0,red_bull,Red Bull
+27165.0,1008.0,9,392.0,3.0,4.0,red_bull,Red Bull
+27175.0,1009.0,9,419.0,3.0,4.0,red_bull,Red Bull
+27194.0,1010.0,9,15.0,3.0,0.0,red_bull,Red Bull
+27214.0,1011.0,9,31.0,3.0,0.0,red_bull,Red Bull
+27224.0,1012.0,9,52.0,3.0,0.0,red_bull,Red Bull
+27234.0,1013.0,9,64.0,3.0,0.0,red_bull,Red Bull
+27244.0,1014.0,9,87.0,3.0,0.0,red_bull,Red Bull
+27254.0,1015.0,9,110.0,3.0,0.0,red_bull,Red Bull
+27264.0,1016.0,9,124.0,3.0,0.0,red_bull,Red Bull
+27304.0,1018.0,9,169.0,3.0,1.0,red_bull,Red Bull
+27294.0,1017.0,9,137.0,3.0,0.0,red_bull,Red Bull
+27314.0,1019.0,9,191.0,3.0,1.0,red_bull,Red Bull
+27334.0,1020.0,9,217.0,3.0,2.0,red_bull,Red Bull
+27344.0,1021.0,9,244.0,3.0,2.0,red_bull,Red Bull
+27354.0,1022.0,9,254.0,3.0,2.0,red_bull,Red Bull
+27364.0,1023.0,9,266.0,3.0,2.0,red_bull,Red Bull
+27374.0,1024.0,9,289.0,3.0,2.0,red_bull,Red Bull
+27384.0,1025.0,9,311.0,3.0,2.0,red_bull,Red Bull
+27414.0,1026.0,9,323.0,3.0,2.0,red_bull,Red Bull
+27424.0,1027.0,9,341.0,3.0,2.0,red_bull,Red Bull
+27434.0,1028.0,9,366.0,3.0,2.0,red_bull,Red Bull
+27444.0,1029.0,9,391.0,3.0,3.0,red_bull,Red Bull
+27454.0,1030.0,9,417.0,3.0,3.0,red_bull,Red Bull
+27521.0,1034.0,9,78.0,2.0,0.0,red_bull,Red Bull
+27581.0,1031.0,9,0.0,9.0,0.0,red_bull,Red Bull
+27491.0,1032.0,9,27.0,3.0,0.0,red_bull,Red Bull
+27511.0,1033.0,9,55.0,2.0,0.0,red_bull,Red Bull
+27531.0,1035.0,9,113.0,2.0,1.0,red_bull,Red Bull
+27541.0,1036.0,9,135.0,2.0,1.0,red_bull,Red Bull
+27551.0,1037.0,9,158.0,2.0,1.0,red_bull,Red Bull
+27561.0,1038.0,9,158.0,2.0,1.0,red_bull,Red Bull
+27571.0,1039.0,9,173.0,2.0,1.0,red_bull,Red Bull
+27591.0,1040.0,9,192.0,2.0,1.0,red_bull,Red Bull
+27601.0,1041.0,9,211.0,2.0,1.0,red_bull,Red Bull
+27611.0,1042.0,9,226.0,2.0,1.0,red_bull,Red Bull
+27621.0,1043.0,9,226.0,2.0,1.0,red_bull,Red Bull
+27631.0,1044.0,9,240.0,2.0,1.0,red_bull,Red Bull
+27641.0,1045.0,9,274.0,2.0,1.0,red_bull,Red Bull
+27651.0,1046.0,9,282.0,2.0,1.0,red_bull,Red Bull
+27661.0,1047.0,9,319.0,2.0,2.0,red_bull,Red Bull
+27904.0,1051.0,9,541.5,2.0,10.0,red_bull,Red Bull
+27674.0,1052.0,9,28.0,2.0,0.0,red_bull,Red Bull
+27704.0,1053.0,9,53.0,2.0,1.0,red_bull,Red Bull
+27714.0,1054.0,9,83.0,2.0,1.0,red_bull,Red Bull
+27724.0,1055.0,9,112.0,2.0,1.0,red_bull,Red Bull
+27734.0,1056.0,9,149.0,1.0,2.0,red_bull,Red Bull
+27744.0,1057.0,9,174.0,1.0,3.0,red_bull,Red Bull
+27754.0,1059.0,9,215.0,1.0,4.0,red_bull,Red Bull
+27764.0,1058.0,9,252.0,1.0,5.0,red_bull,Red Bull
+27784.0,1060.0,9,286.0,1.0,6.0,red_bull,Red Bull
+27794.0,1061.0,9,289.0,1.0,6.0,red_bull,Red Bull
+27814.0,1062.0,9,291.0,2.0,6.0,red_bull,Red Bull
+27824.0,1063.0,9,303.5,2.0,7.0,red_bull,Red Bull
+27834.0,1064.0,9,332.5,2.0,8.0,red_bull,Red Bull
+27844.0,1065.0,9,344.5,2.0,8.0,red_bull,Red Bull
+27854.0,1066.0,9,364.5,2.0,8.0,red_bull,Red Bull
+27864.0,1067.0,9,397.5,2.0,8.0,red_bull,Red Bull
+27874.0,1069.0,9,437.5,2.0,9.0,red_bull,Red Bull
+27884.0,1070.0,9,477.5,2.0,10.0,red_bull,Red Bull
+27894.0,1071.0,9,510.5,2.0,10.0,red_bull,Red Bull
+27914.0,1072.0,9,559.5,2.0,10.0,red_bull,Red Bull
+27924.0,1073.0,9,585.5,2.0,11.0,red_bull,Red Bull
+28142.0,1074.0,9,0.0,10.0,0.0,red_bull,Red Bull
+28152.0,1075.0,9,37.0,3.0,1.0,red_bull,Red Bull
+28162.0,1076.0,9,55.0,3.0,1.0,red_bull,Red Bull
+28172.0,1077.0,9,113.0,2.0,2.0,red_bull,Red Bull
+28182.0,1078.0,9,151.0,2.0,3.0,red_bull,Red Bull
+28192.0,1079.0,9,195.0,1.0,4.0,red_bull,Red Bull
+28202.0,1080.0,9,235.0,1.0,5.0,red_bull,Red Bull
+28212.0,1081.0,9,279.0,1.0,6.0,red_bull,Red Bull
+28232.0,1082.0,9,304.0,1.0,7.0,red_bull,Red Bull
+28242.0,1083.0,9,328.0,1.0,7.0,red_bull,Red Bull
+28252.0,1084.0,9,359.0,1.0,7.0,red_bull,Red Bull
+28262.0,1085.0,9,396.0,1.0,8.0,red_bull,Red Bull
+28272.0,1086.0,9,431.0,1.0,9.0,red_bull,Red Bull
+28282.0,1087.0,9,475.0,1.0,10.0,red_bull,Red Bull
+28292.0,1088.0,9,511.0,1.0,11.0,red_bull,Red Bull
+28302.0,1089.0,9,545.0,1.0,12.0,red_bull,Red Bull
+28312.0,1091.0,9,576.0,1.0,13.0,red_bull,Red Bull
+28332.0,1092.0,9,619.0,1.0,14.0,red_bull,Red Bull
+28382.0,1094.0,9,696.0,1.0,16.0,red_bull,Red Bull
+28372.0,1093.0,9,656.0,1.0,15.0,red_bull,Red Bull
+28392.0,1095.0,9,719.0,1.0,16.0,red_bull,Red Bull
+28402.0,1096.0,9,759.0,1.0,17.0,red_bull,Red Bull
+28483.0,1098.0,9,43.0,1.0,1.0,red_bull,Red Bull
+28443.0,1100.0,9,123.0,1.0,3.0,red_bull,Red Bull
+28433.0,1099.0,9,87.0,1.0,2.0,red_bull,Red Bull
+28453.0,1101.0,9,180.0,1.0,4.0,red_bull,Red Bull
+28463.0,1102.0,9,224.0,1.0,5.0,red_bull,Red Bull
+28473.0,1104.0,9,249.0,1.0,6.0,red_bull,Red Bull
+28493.0,1105.0,9,287.0,1.0,7.0,red_bull,Red Bull
+28513.0,1106.0,9,321.0,1.0,8.0,red_bull,Red Bull
+28533.0,1107.0,9,377.0,1.0,9.0,red_bull,Red Bull
+28543.0,1108.0,9,411.0,1.0,10.0,red_bull,Red Bull
+28553.0,1109.0,9,452.0,1.0,11.0,red_bull,Red Bull
+28563.0,1110.0,9,503.0,1.0,12.0,red_bull,Red Bull
+28573.0,1111.0,9,540.0,1.0,13.0,red_bull,Red Bull
+28583.0,1112.0,9,583.0,1.0,14.0,red_bull,Red Bull
+28593.0,1113.0,9,597.0,1.0,14.0,red_bull,Red Bull
+28603.0,1114.0,9,623.0,1.0,15.0,red_bull,Red Bull
+28653.0,1115.0,9,657.0,1.0,16.0,red_bull,Red Bull
+28663.0,1116.0,9,706.0,1.0,17.0,red_bull,Red Bull
+28673.0,1117.0,9,731.0,1.0,18.0,red_bull,Red Bull
+28683.0,1118.0,9,782.0,1.0,19.0,red_bull,Red Bull
+28693.0,1119.0,9,822.0,1.0,20.0,red_bull,Red Bull
+28703.0,1120.0,9,860.0,1.0,21.0,red_bull,Red Bull
+28713.0,1121.0,9,44.0,1.0,1.0,red_bull,Red Bull
+28723.0,1122.0,9,87.0,1.0,2.0,red_bull,Red Bull
+28743.0,1123.0,9,97.0,1.0,2.0,red_bull,Red Bull
+28753.0,1124.0,9,141.0,1.0,3.0,red_bull,Red Bull
+28783.0,1126.0,9,239.0,1.0,4.0,red_bull,Red Bull
+28773.0,1125.0,9,195.0,1.0,4.0,red_bull,Red Bull
+28793.0,1127.0,9,268.0,1.0,5.0,red_bull,Red Bull
+28803.0,1128.0,9,276.0,1.0,5.0,red_bull,Red Bull
+28813.0,1129.0,9,301.0,1.0,6.0,red_bull,Red Bull
+28823.0,1130.0,9,330.0,1.0,7.0,red_bull,Red Bull
+28833.0,1131.0,9,355.0,1.0,7.0,red_bull,Red Bull
+28843.0,1132.0,9,373.0,1.0,7.0,red_bull,Red Bull
+28853.0,1133.0,9,389.0,1.0,7.0,red_bull,Red Bull
+28873.0,1134.0,9,408.0,1.0,7.0,red_bull,Red Bull
+28883.0,1135.0,9,434.0,1.0,7.0,red_bull,Red Bull
+28893.0,1136.0,9,446.0,1.0,7.0,red_bull,Red Bull
+28903.0,1137.0,9,456.0,2.0,7.0,red_bull,Red Bull
+28913.0,1138.0,9,475.0,2.0,7.0,red_bull,Red Bull
+28923.0,1139.0,9,504.0,2.0,7.0,red_bull,Red Bull
+28933.0,1140.0,9,512.0,3.0,7.0,red_bull,Red Bull
+28943.0,1141.0,9,544.0,3.0,8.0,red_bull,Red Bull
+28953.0,1142.0,9,555.0,3.0,8.0,red_bull,Red Bull
+28963.0,1143.0,9,581.0,3.0,9.0,red_bull,Red Bull
+28973.0,1144.0,9,589.0,3.0,9.0,red_bull,Red Bull
+26938.0,989.0,10,0.0,6.0,0.0,force_india,Force India
+26978.0,990.0,10,1.0,9.0,0.0,force_india,Force India
+26968.0,991.0,10,1.0,9.0,0.0,force_india,Force India
+26988.0,992.0,10,16.0,6.0,0.0,force_india,Force India
+26998.0,993.0,10,18.0,7.0,0.0,force_india,Force India
+27008.0,994.0,10,26.0,6.0,0.0,force_india,Force India
+27018.0,995.0,10,28.0,6.0,0.0,force_india,Force India
+27028.0,996.0,10,28.0,6.0,0.0,force_india,Force India
+27038.0,997.0,10,42.0,7.0,0.0,force_india,Force India
+27048.0,998.0,10,49.0,6.0,0.0,force_india,Force India
+27058.0,999.0,10,59.0,5.0,0.0,force_india,Force India
+27068.0,1000.0,10,59.0,6.0,0.0,force_india,Force India
+27078.0,1001.0,10,18.0,9.0,0.0,force_india,Force India
+27098.0,1002.0,10,32.0,7.0,0.0,force_india,Force India
+27108.0,1003.0,10,32.0,7.0,0.0,force_india,Force India
+27118.0,1004.0,10,35.0,7.0,0.0,force_india,Force India
+27128.0,1005.0,10,43.0,7.0,0.0,force_india,Force India
+27148.0,1006.0,10,47.0,7.0,0.0,force_india,Force India
+27158.0,1007.0,10,47.0,7.0,0.0,force_india,Force India
+27168.0,1008.0,10,48.0,7.0,0.0,force_india,Force India
+27178.0,1009.0,10,52.0,7.0,0.0,force_india,Force India
+26939.0,989.0,15,0.0,7.0,0.0,sauber,Sauber
+26979.0,990.0,15,2.0,8.0,0.0,sauber,Sauber
+26969.0,991.0,15,2.0,8.0,0.0,sauber,Sauber
+26989.0,992.0,15,10.0,9.0,0.0,sauber,Sauber
+26999.0,993.0,15,11.0,9.0,0.0,sauber,Sauber
+27009.0,994.0,15,11.0,9.0,0.0,sauber,Sauber
+27019.0,995.0,15,12.0,9.0,0.0,sauber,Sauber
+27029.0,996.0,15,13.0,9.0,0.0,sauber,Sauber
+27039.0,997.0,15,16.0,9.0,0.0,sauber,Sauber
+27049.0,998.0,15,16.0,9.0,0.0,sauber,Sauber
+27059.0,999.0,15,18.0,9.0,0.0,sauber,Sauber
+27069.0,1000.0,15,18.0,9.0,0.0,sauber,Sauber
+27079.0,1001.0,15,19.0,8.0,0.0,sauber,Sauber
+27099.0,1002.0,15,19.0,9.0,0.0,sauber,Sauber
+27109.0,1003.0,15,21.0,9.0,0.0,sauber,Sauber
+27119.0,1004.0,15,27.0,9.0,0.0,sauber,Sauber
+27129.0,1005.0,15,27.0,9.0,0.0,sauber,Sauber
+27149.0,1006.0,15,28.0,9.0,0.0,sauber,Sauber
+27159.0,1007.0,15,36.0,8.0,0.0,sauber,Sauber
+27169.0,1008.0,15,42.0,8.0,0.0,sauber,Sauber
+27179.0,1009.0,15,48.0,8.0,0.0,sauber,Sauber
+28718.0,1121.0,15,0.0,6.0,0.0,sauber,Sauber
+28728.0,1122.0,15,0.0,8.0,0.0,sauber,Sauber
+28748.0,1123.0,15,0.0,9.0,0.0,sauber,Sauber
+28758.0,1124.0,15,0.0,9.0,0.0,sauber,Sauber
+28778.0,1125.0,15,0.0,10.0,0.0,sauber,Sauber
+28788.0,1126.0,15,0.0,10.0,0.0,sauber,Sauber
+28798.0,1127.0,15,0.0,10.0,0.0,sauber,Sauber
+28808.0,1128.0,15,0.0,10.0,0.0,sauber,Sauber
+28818.0,1129.0,15,0.0,10.0,0.0,sauber,Sauber
+28828.0,1130.0,15,0.0,10.0,0.0,sauber,Sauber
+28838.0,1131.0,15,0.0,10.0,0.0,sauber,Sauber
+28848.0,1132.0,15,0.0,10.0,0.0,sauber,Sauber
+28858.0,1133.0,15,0.0,10.0,0.0,sauber,Sauber
+28878.0,1134.0,15,0.0,10.0,0.0,sauber,Sauber
+28888.0,1135.0,15,0.0,10.0,0.0,sauber,Sauber
+28898.0,1136.0,15,0.0,10.0,0.0,sauber,Sauber
+28908.0,1137.0,15,0.0,10.0,0.0,sauber,Sauber
+28918.0,1138.0,15,0.0,10.0,0.0,sauber,Sauber
+28928.0,1139.0,15,0.0,10.0,0.0,sauber,Sauber
+28938.0,1140.0,15,0.0,10.0,0.0,sauber,Sauber
+28948.0,1141.0,15,0.0,10.0,0.0,sauber,Sauber
+28958.0,1142.0,15,0.0,10.0,0.0,sauber,Sauber
+28968.0,1143.0,15,4.0,10.0,0.0,sauber,Sauber
+28978.0,1144.0,15,4.0,10.0,0.0,sauber,Sauber
+27198.0,1010.0,51,4.0,6.0,0.0,alfa,Alfa Romeo
+27218.0,1011.0,51,10.0,4.0,0.0,alfa,Alfa Romeo
+27228.0,1012.0,51,12.0,5.0,0.0,alfa,Alfa Romeo
+27238.0,1013.0,51,13.0,6.0,0.0,alfa,Alfa Romeo
+27248.0,1014.0,51,13.0,7.0,0.0,alfa,Alfa Romeo
+27258.0,1015.0,51,13.0,9.0,0.0,alfa,Alfa Romeo
+27268.0,1016.0,51,13.0,9.0,0.0,alfa,Alfa Romeo
+27298.0,1017.0,51,19.0,7.0,0.0,alfa,Alfa Romeo
+27308.0,1018.0,51,22.0,6.0,0.0,alfa,Alfa Romeo
+27318.0,1019.0,51,26.0,6.0,0.0,alfa,Alfa Romeo
+27338.0,1020.0,51,26.0,9.0,0.0,alfa,Alfa Romeo
+27348.0,1021.0,51,32.0,7.0,0.0,alfa,Alfa Romeo
+27358.0,1022.0,51,32.0,8.0,0.0,alfa,Alfa Romeo
+27368.0,1023.0,51,34.0,8.0,0.0,alfa,Alfa Romeo
+27378.0,1024.0,51,35.0,8.0,0.0,alfa,Alfa Romeo
+27388.0,1025.0,51,35.0,8.0,0.0,alfa,Alfa Romeo
+27418.0,1026.0,51,35.0,8.0,0.0,alfa,Alfa Romeo
+27428.0,1027.0,51,35.0,8.0,0.0,alfa,Alfa Romeo
+27438.0,1028.0,51,35.0,8.0,0.0,alfa,Alfa Romeo
+27448.0,1029.0,51,57.0,8.0,0.0,alfa,Alfa Romeo
+27458.0,1030.0,51,57.0,8.0,0.0,alfa,Alfa Romeo
+27519.0,1034.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27579.0,1031.0,51,2.0,7.0,0.0,alfa,Alfa Romeo
+27489.0,1032.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27509.0,1033.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27529.0,1035.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27539.0,1036.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27549.0,1037.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27559.0,1038.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27569.0,1039.0,51,4.0,8.0,0.0,alfa,Alfa Romeo
+27589.0,1040.0,51,4.0,8.0,0.0,alfa,Alfa Romeo
+27599.0,1041.0,51,5.0,8.0,0.0,alfa,Alfa Romeo
+27609.0,1042.0,51,5.0,8.0,0.0,alfa,Alfa Romeo
+27619.0,1043.0,51,8.0,8.0,0.0,alfa,Alfa Romeo
+27629.0,1044.0,51,8.0,8.0,0.0,alfa,Alfa Romeo
+27639.0,1045.0,51,8.0,8.0,0.0,alfa,Alfa Romeo
+27649.0,1046.0,51,8.0,8.0,0.0,alfa,Alfa Romeo
+27659.0,1047.0,51,8.0,8.0,0.0,alfa,Alfa Romeo
+27909.0,1051.0,51,11.0,9.0,0.0,alfa,Alfa Romeo
+27679.0,1052.0,51,0.0,7.0,0.0,alfa,Alfa Romeo
+27709.0,1053.0,51,0.0,8.0,0.0,alfa,Alfa Romeo
+27719.0,1054.0,51,0.0,8.0,0.0,alfa,Alfa Romeo
+27729.0,1055.0,51,0.0,8.0,0.0,alfa,Alfa Romeo
+27739.0,1056.0,51,1.0,8.0,0.0,alfa,Alfa Romeo
+27749.0,1057.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27759.0,1059.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27769.0,1058.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27789.0,1060.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27799.0,1061.0,51,2.0,8.0,0.0,alfa,Alfa Romeo
+27819.0,1062.0,51,3.0,9.0,0.0,alfa,Alfa Romeo
+27829.0,1063.0,51,3.0,9.0,0.0,alfa,Alfa Romeo
+27839.0,1064.0,51,3.0,9.0,0.0,alfa,Alfa Romeo
+27849.0,1065.0,51,3.0,9.0,0.0,alfa,Alfa Romeo
+27859.0,1066.0,51,7.0,9.0,0.0,alfa,Alfa Romeo
+27869.0,1067.0,51,7.0,9.0,0.0,alfa,Alfa Romeo
+27879.0,1069.0,51,7.0,9.0,0.0,alfa,Alfa Romeo
+27889.0,1070.0,51,11.0,9.0,0.0,alfa,Alfa Romeo
+27899.0,1071.0,51,11.0,9.0,0.0,alfa,Alfa Romeo
+27919.0,1072.0,51,13.0,9.0,0.0,alfa,Alfa Romeo
+27929.0,1073.0,51,13.0,9.0,0.0,alfa,Alfa Romeo
+28136.0,1074.0,51,9.0,4.0,0.0,alfa,Alfa Romeo
+28146.0,1075.0,51,9.0,6.0,0.0,alfa,Alfa Romeo
+28156.0,1076.0,51,13.0,6.0,0.0,alfa,Alfa Romeo
+28166.0,1077.0,51,25.0,5.0,0.0,alfa,Alfa Romeo
+28176.0,1078.0,51,31.0,5.0,0.0,alfa,Alfa Romeo
+28186.0,1079.0,51,39.0,5.0,0.0,alfa,Alfa Romeo
+28196.0,1080.0,51,41.0,5.0,0.0,alfa,Alfa Romeo
+28206.0,1081.0,51,41.0,6.0,0.0,alfa,Alfa Romeo
+28226.0,1082.0,51,51.0,6.0,0.0,alfa,Alfa Romeo
+28236.0,1083.0,51,51.0,6.0,0.0,alfa,Alfa Romeo
+28246.0,1084.0,51,51.0,6.0,0.0,alfa,Alfa Romeo
+28256.0,1085.0,51,51.0,6.0,0.0,alfa,Alfa Romeo
+28266.0,1086.0,51,51.0,6.0,0.0,alfa,Alfa Romeo
+28276.0,1087.0,51,51.0,6.0,0.0,alfa,Alfa Romeo
+28286.0,1088.0,51,51.0,6.0,0.0,alfa,Alfa Romeo
+28296.0,1089.0,51,52.0,6.0,0.0,alfa,Alfa Romeo
+28306.0,1091.0,51,52.0,6.0,0.0,alfa,Alfa Romeo
+28326.0,1092.0,51,52.0,6.0,0.0,alfa,Alfa Romeo
+28366.0,1093.0,51,52.0,6.0,0.0,alfa,Alfa Romeo
+28376.0,1094.0,51,53.0,6.0,0.0,alfa,Alfa Romeo
+28386.0,1095.0,51,55.0,6.0,0.0,alfa,Alfa Romeo
+28396.0,1096.0,51,55.0,6.0,0.0,alfa,Alfa Romeo
+28487.0,1098.0,51,4.0,5.0,0.0,alfa,Alfa Romeo
+28437.0,1099.0,51,4.0,6.0,0.0,alfa,Alfa Romeo
+28447.0,1100.0,51,6.0,8.0,0.0,alfa,Alfa Romeo
+28457.0,1101.0,51,6.0,8.0,0.0,alfa,Alfa Romeo
+28467.0,1102.0,51,6.0,8.0,0.0,alfa,Alfa Romeo
+28477.0,1104.0,51,6.0,8.0,0.0,alfa,Alfa Romeo
+28497.0,1105.0,51,8.0,8.0,0.0,alfa,Alfa Romeo
+28517.0,1106.0,51,9.0,7.0,0.0,alfa,Alfa Romeo
+28537.0,1107.0,51,9.0,8.0,0.0,alfa,Alfa Romeo
+28547.0,1108.0,51,9.0,9.0,0.0,alfa,Alfa Romeo
+28557.0,1109.0,51,9.0,9.0,0.0,alfa,Alfa Romeo
+28567.0,1110.0,51,9.0,9.0,0.0,alfa,Alfa Romeo
+28577.0,1111.0,51,9.0,9.0,0.0,alfa,Alfa Romeo
+28587.0,1112.0,51,10.0,9.0,0.0,alfa,Alfa Romeo
+28597.0,1113.0,51,10.0,9.0,0.0,alfa,Alfa Romeo
+28607.0,1114.0,51,10.0,9.0,0.0,alfa,Alfa Romeo
+28657.0,1115.0,51,16.0,8.0,0.0,alfa,Alfa Romeo
+28667.0,1116.0,51,16.0,8.0,0.0,alfa,Alfa Romeo
+28677.0,1117.0,51,16.0,9.0,0.0,alfa,Alfa Romeo
+28687.0,1118.0,51,16.0,9.0,0.0,alfa,Alfa Romeo
+28697.0,1119.0,51,16.0,9.0,0.0,alfa,Alfa Romeo
+28707.0,1120.0,51,16.0,9.0,0.0,alfa,Alfa Romeo
+27908.0,1051.0,117,77.0,7.0,0.0,aston_martin,Aston Martin
+27678.0,1052.0,117,1.0,6.0,0.0,aston_martin,Aston Martin
+27708.0,1053.0,117,5.0,6.0,0.0,aston_martin,Aston Martin
+27718.0,1054.0,117,5.0,7.0,0.0,aston_martin,Aston Martin
+27728.0,1055.0,117,5.0,7.0,0.0,aston_martin,Aston Martin
+27738.0,1056.0,117,19.0,5.0,0.0,aston_martin,Aston Martin
+27748.0,1057.0,117,37.0,6.0,0.0,aston_martin,Aston Martin
+27758.0,1059.0,117,40.0,6.0,0.0,aston_martin,Aston Martin
+27768.0,1058.0,117,44.0,6.0,0.0,aston_martin,Aston Martin
+27788.0,1060.0,117,44.0,6.0,0.0,aston_martin,Aston Martin
+27798.0,1061.0,117,48.0,6.0,0.0,aston_martin,Aston Martin
+27818.0,1062.0,117,48.0,7.0,0.0,aston_martin,Aston Martin
+27828.0,1063.0,117,53.0,7.0,0.0,aston_martin,Aston Martin
+27838.0,1064.0,117,53.0,7.0,0.0,aston_martin,Aston Martin
+27848.0,1065.0,117,59.0,7.0,0.0,aston_martin,Aston Martin
+27858.0,1066.0,117,59.0,7.0,0.0,aston_martin,Aston Martin
+27868.0,1067.0,117,61.0,7.0,0.0,aston_martin,Aston Martin
+27878.0,1069.0,117,62.0,7.0,0.0,aston_martin,Aston Martin
+27888.0,1070.0,117,68.0,7.0,0.0,aston_martin,Aston Martin
+27898.0,1071.0,117,68.0,7.0,0.0,aston_martin,Aston Martin
+27918.0,1072.0,117,77.0,7.0,0.0,aston_martin,Aston Martin
+27928.0,1073.0,117,77.0,7.0,0.0,aston_martin,Aston Martin
+28139.0,1074.0,117,0.0,7.0,0.0,aston_martin,Aston Martin
+28149.0,1075.0,117,0.0,9.0,0.0,aston_martin,Aston Martin
+28159.0,1076.0,117,0.0,10.0,0.0,aston_martin,Aston Martin
+28169.0,1077.0,117,5.0,9.0,0.0,aston_martin,Aston Martin
+28179.0,1078.0,117,6.0,9.0,0.0,aston_martin,Aston Martin
+28189.0,1079.0,117,6.0,9.0,0.0,aston_martin,Aston Martin
+28199.0,1080.0,117,7.0,9.0,0.0,aston_martin,Aston Martin
+28209.0,1081.0,117,15.0,9.0,0.0,aston_martin,Aston Martin
+28229.0,1082.0,117,16.0,8.0,0.0,aston_martin,Aston Martin
+28239.0,1083.0,117,18.0,9.0,0.0,aston_martin,Aston Martin
+28249.0,1084.0,117,18.0,9.0,0.0,aston_martin,Aston Martin
+28259.0,1085.0,117,19.0,9.0,0.0,aston_martin,Aston Martin
+28269.0,1086.0,117,20.0,9.0,0.0,aston_martin,Aston Martin
+28279.0,1087.0,117,24.0,9.0,0.0,aston_martin,Aston Martin
+28289.0,1088.0,117,25.0,9.0,0.0,aston_martin,Aston Martin
+28299.0,1089.0,117,25.0,9.0,0.0,aston_martin,Aston Martin
+28309.0,1091.0,117,37.0,7.0,0.0,aston_martin,Aston Martin
+28329.0,1092.0,117,45.0,7.0,0.0,aston_martin,Aston Martin
+28369.0,1093.0,117,49.0,7.0,0.0,aston_martin,Aston Martin
+28379.0,1094.0,117,49.0,7.0,0.0,aston_martin,Aston Martin
+28389.0,1095.0,117,50.0,7.0,0.0,aston_martin,Aston Martin
+28399.0,1096.0,117,55.0,7.0,0.0,aston_martin,Aston Martin
+28484.0,1098.0,117,23.0,2.0,0.0,aston_martin,Aston Martin
+28444.0,1100.0,117,65.0,2.0,0.0,aston_martin,Aston Martin
+28434.0,1099.0,117,38.0,2.0,0.0,aston_martin,Aston Martin
+28454.0,1101.0,117,87.0,2.0,0.0,aston_martin,Aston Martin
+28464.0,1102.0,117,102.0,2.0,0.0,aston_martin,Aston Martin
+28474.0,1104.0,117,120.0,2.0,0.0,aston_martin,Aston Martin
+28494.0,1105.0,117,134.0,3.0,0.0,aston_martin,Aston Martin
+28514.0,1106.0,117,154.0,3.0,0.0,aston_martin,Aston Martin
+28534.0,1107.0,117,175.0,3.0,0.0,aston_martin,Aston Martin
+28544.0,1108.0,117,181.0,3.0,0.0,aston_martin,Aston Martin
+28554.0,1109.0,117,184.0,3.0,0.0,aston_martin,Aston Martin
+28564.0,1110.0,117,196.0,3.0,0.0,aston_martin,Aston Martin
+28574.0,1111.0,117,215.0,3.0,0.0,aston_martin,Aston Martin
+28584.0,1112.0,117,217.0,4.0,0.0,aston_martin,Aston Martin
+28594.0,1113.0,117,217.0,4.0,0.0,aston_martin,Aston Martin
+28604.0,1114.0,117,221.0,4.0,0.0,aston_martin,Aston Martin
+28654.0,1115.0,117,230.0,4.0,0.0,aston_martin,Aston Martin
+28664.0,1116.0,117,236.0,5.0,0.0,aston_martin,Aston Martin
+28674.0,1117.0,117,236.0,5.0,0.0,aston_martin,Aston Martin
+28684.0,1118.0,117,261.0,5.0,0.0,aston_martin,Aston Martin
+28694.0,1119.0,117,273.0,5.0,0.0,aston_martin,Aston Martin
+28704.0,1120.0,117,280.0,5.0,0.0,aston_martin,Aston Martin
+28717.0,1121.0,117,3.0,5.0,0.0,aston_martin,Aston Martin
+28727.0,1122.0,117,13.0,5.0,0.0,aston_martin,Aston Martin
+28747.0,1123.0,117,25.0,5.0,0.0,aston_martin,Aston Martin
+28757.0,1124.0,117,33.0,5.0,0.0,aston_martin,Aston Martin
+28777.0,1125.0,117,40.0,5.0,0.0,aston_martin,Aston Martin
+28787.0,1126.0,117,42.0,5.0,0.0,aston_martin,Aston Martin
+28797.0,1127.0,117,44.0,5.0,0.0,aston_martin,Aston Martin
+28807.0,1128.0,117,44.0,5.0,0.0,aston_martin,Aston Martin
+28817.0,1129.0,117,58.0,5.0,0.0,aston_martin,Aston Martin
+28827.0,1130.0,117,58.0,5.0,0.0,aston_martin,Aston Martin
+28837.0,1131.0,117,58.0,5.0,0.0,aston_martin,Aston Martin
+28847.0,1132.0,117,68.0,5.0,0.0,aston_martin,Aston Martin
+28857.0,1133.0,117,69.0,5.0,0.0,aston_martin,Aston Martin
+28877.0,1134.0,117,73.0,5.0,0.0,aston_martin,Aston Martin
+28887.0,1135.0,117,74.0,5.0,0.0,aston_martin,Aston Martin
+28897.0,1136.0,117,74.0,5.0,0.0,aston_martin,Aston Martin
+28907.0,1137.0,117,82.0,5.0,0.0,aston_martin,Aston Martin
+28917.0,1138.0,117,86.0,5.0,0.0,aston_martin,Aston Martin
+28927.0,1139.0,117,86.0,5.0,0.0,aston_martin,Aston Martin
+28937.0,1140.0,117,86.0,5.0,0.0,aston_martin,Aston Martin
+28947.0,1141.0,117,86.0,5.0,0.0,aston_martin,Aston Martin
+28957.0,1142.0,117,86.0,5.0,0.0,aston_martin,Aston Martin
+28967.0,1143.0,117,92.0,5.0,0.0,aston_martin,Aston Martin
+28977.0,1144.0,117,94.0,5.0,0.0,aston_martin,Aston Martin
+26934.0,989.0,131,22.0,2.0,0.0,mercedes,Mercedes
+26974.0,990.0,131,55.0,2.0,0.0,mercedes,Mercedes
+26964.0,991.0,131,85.0,1.0,0.0,mercedes,Mercedes
+26984.0,992.0,131,110.0,2.0,1.0,mercedes,Mercedes
+26994.0,993.0,131,153.0,1.0,2.0,mercedes,Mercedes
+27004.0,994.0,131,178.0,1.0,2.0,mercedes,Mercedes
+27014.0,995.0,131,206.0,1.0,2.0,mercedes,Mercedes
+27024.0,996.0,131,237.0,1.0,3.0,mercedes,Mercedes
+27034.0,997.0,131,237.0,2.0,3.0,mercedes,Mercedes
+27044.0,998.0,131,267.0,2.0,3.0,mercedes,Mercedes
+27054.0,999.0,131,310.0,1.0,4.0,mercedes,Mercedes
+27064.0,1000.0,131,345.0,1.0,5.0,mercedes,Mercedes
+27074.0,1001.0,131,375.0,1.0,5.0,mercedes,Mercedes
+27094.0,1002.0,131,415.0,1.0,6.0,mercedes,Mercedes
+27104.0,1003.0,131,452.0,1.0,7.0,mercedes,Mercedes
+27114.0,1004.0,131,495.0,1.0,8.0,mercedes,Mercedes
+27124.0,1005.0,131,538.0,1.0,9.0,mercedes,Mercedes
+27144.0,1006.0,131,563.0,1.0,9.0,mercedes,Mercedes
+27154.0,1007.0,131,585.0,1.0,9.0,mercedes,Mercedes
+27164.0,1008.0,131,620.0,1.0,10.0,mercedes,Mercedes
+27174.0,1009.0,131,655.0,1.0,11.0,mercedes,Mercedes
+27193.0,1010.0,131,44.0,1.0,1.0,mercedes,Mercedes
+27223.0,1012.0,131,130.0,1.0,3.0,mercedes,Mercedes
+27213.0,1011.0,131,87.0,1.0,2.0,mercedes,Mercedes
+27233.0,1013.0,131,173.0,1.0,4.0,mercedes,Mercedes
+27243.0,1014.0,131,217.0,1.0,5.0,mercedes,Mercedes
+27253.0,1015.0,131,257.0,1.0,6.0,mercedes,Mercedes
+27263.0,1016.0,131,295.0,1.0,7.0,mercedes,Mercedes
+27303.0,1018.0,131,363.0,1.0,8.0,mercedes,Mercedes
+27293.0,1017.0,131,338.0,1.0,8.0,mercedes,Mercedes
+27313.0,1019.0,131,407.0,1.0,9.0,mercedes,Mercedes
+27333.0,1020.0,131,409.0,1.0,9.0,mercedes,Mercedes
+27343.0,1021.0,131,438.0,1.0,10.0,mercedes,Mercedes
+27353.0,1022.0,131,471.0,1.0,10.0,mercedes,Mercedes
+27363.0,1023.0,131,505.0,1.0,10.0,mercedes,Mercedes
+27373.0,1024.0,131,527.0,1.0,10.0,mercedes,Mercedes
+27383.0,1025.0,131,571.0,1.0,11.0,mercedes,Mercedes
+27413.0,1026.0,131,612.0,1.0,12.0,mercedes,Mercedes
+27423.0,1027.0,131,652.0,1.0,13.0,mercedes,Mercedes
+27433.0,1028.0,131,695.0,1.0,14.0,mercedes,Mercedes
+27443.0,1029.0,131,701.0,1.0,14.0,mercedes,Mercedes
+27453.0,1030.0,131,739.0,1.0,15.0,mercedes,Mercedes
+27513.0,1034.0,131,146.0,1.0,4.0,mercedes,Mercedes
+27583.0,1040.0,131,366.0,1.0,8.0,mercedes,Mercedes
+27573.0,1031.0,131,37.0,1.0,1.0,mercedes,Mercedes
+27483.0,1032.0,131,80.0,1.0,2.0,mercedes,Mercedes
+27503.0,1033.0,131,121.0,1.0,3.0,mercedes,Mercedes
+27523.0,1035.0,131,180.0,1.0,4.0,mercedes,Mercedes
+27533.0,1036.0,131,221.0,1.0,5.0,mercedes,Mercedes
+27543.0,1037.0,131,264.0,1.0,6.0,mercedes,Mercedes
+27553.0,1038.0,131,281.0,1.0,6.0,mercedes,Mercedes
+27563.0,1039.0,131,325.0,1.0,7.0,mercedes,Mercedes
+27593.0,1041.0,131,391.0,1.0,9.0,mercedes,Mercedes
+27603.0,1042.0,131,435.0,1.0,10.0,mercedes,Mercedes
+27613.0,1043.0,131,479.0,1.0,11.0,mercedes,Mercedes
+27623.0,1044.0,131,504.0,1.0,12.0,mercedes,Mercedes
+27633.0,1045.0,131,533.0,1.0,13.0,mercedes,Mercedes
+27643.0,1046.0,131,540.0,1.0,13.0,mercedes,Mercedes
+27653.0,1047.0,131,573.0,1.0,13.0,mercedes,Mercedes
+27903.0,1051.0,131,546.5,1.0,8.0,mercedes,Mercedes
+27673.0,1052.0,131,41.0,1.0,1.0,mercedes,Mercedes
+27703.0,1053.0,131,60.0,1.0,1.0,mercedes,Mercedes
+27713.0,1054.0,131,101.0,1.0,2.0,mercedes,Mercedes
+27723.0,1055.0,131,141.0,1.0,3.0,mercedes,Mercedes
+27733.0,1056.0,131,148.0,2.0,3.0,mercedes,Mercedes
+27743.0,1057.0,131,148.0,2.0,3.0,mercedes,Mercedes
+27753.0,1059.0,131,178.0,2.0,3.0,mercedes,Mercedes
+27763.0,1058.0,131,212.0,2.0,3.0,mercedes,Mercedes
+27783.0,1060.0,131,242.0,2.0,3.0,mercedes,Mercedes
+27793.0,1061.0,131,285.0,2.0,4.0,mercedes,Mercedes
+27813.0,1062.0,131,303.0,1.0,4.0,mercedes,Mercedes
+27823.0,1063.0,131,310.5,1.0,4.0,mercedes,Mercedes
+27833.0,1064.0,131,344.5,1.0,4.0,mercedes,Mercedes
+27843.0,1065.0,131,362.5,1.0,4.0,mercedes,Mercedes
+27853.0,1066.0,131,397.5,1.0,5.0,mercedes,Mercedes
+27863.0,1067.0,131,433.5,1.0,6.0,mercedes,Mercedes
+27873.0,1069.0,131,460.5,1.0,6.0,mercedes,Mercedes
+27883.0,1070.0,131,478.5,1.0,6.0,mercedes,Mercedes
+27893.0,1071.0,131,521.5,1.0,7.0,mercedes,Mercedes
+27913.0,1072.0,131,587.5,1.0,9.0,mercedes,Mercedes
+27923.0,1073.0,131,613.5,1.0,9.0,mercedes,Mercedes
+28134.0,1074.0,131,27.0,2.0,0.0,mercedes,Mercedes
+28144.0,1075.0,131,38.0,2.0,0.0,mercedes,Mercedes
+28154.0,1076.0,131,65.0,2.0,0.0,mercedes,Mercedes
+28164.0,1077.0,131,77.0,3.0,0.0,mercedes,Mercedes
+28174.0,1078.0,131,95.0,3.0,0.0,mercedes,Mercedes
+28184.0,1079.0,131,120.0,3.0,0.0,mercedes,Mercedes
+28194.0,1080.0,131,134.0,3.0,0.0,mercedes,Mercedes
+28204.0,1081.0,131,161.0,3.0,0.0,mercedes,Mercedes
+28224.0,1082.0,131,188.0,3.0,0.0,mercedes,Mercedes
+28234.0,1083.0,131,204.0,3.0,0.0,mercedes,Mercedes
+28244.0,1084.0,131,237.0,3.0,0.0,mercedes,Mercedes
+28254.0,1085.0,131,270.0,3.0,0.0,mercedes,Mercedes
+28264.0,1086.0,131,304.0,3.0,0.0,mercedes,Mercedes
+28274.0,1087.0,131,316.0,3.0,0.0,mercedes,Mercedes
+28284.0,1088.0,131,346.0,3.0,0.0,mercedes,Mercedes
+28294.0,1089.0,131,371.0,3.0,0.0,mercedes,Mercedes
+28304.0,1091.0,131,373.0,3.0,0.0,mercedes,Mercedes
+28324.0,1092.0,131,387.0,3.0,0.0,mercedes,Mercedes
+28364.0,1093.0,131,416.0,3.0,0.0,mercedes,Mercedes
+28374.0,1094.0,131,447.0,3.0,0.0,mercedes,Mercedes
+28384.0,1095.0,131,505.0,3.0,1.0,mercedes,Mercedes
+28394.0,1096.0,131,515.0,3.0,1.0,mercedes,Mercedes
+28486.0,1098.0,131,16.0,3.0,0.0,mercedes,Mercedes
+28436.0,1099.0,131,38.0,3.0,0.0,mercedes,Mercedes
+28446.0,1100.0,131,56.0,3.0,0.0,mercedes,Mercedes
+28456.0,1101.0,131,76.0,3.0,0.0,mercedes,Mercedes
+28466.0,1102.0,131,96.0,3.0,0.0,mercedes,Mercedes
+28476.0,1104.0,131,119.0,3.0,0.0,mercedes,Mercedes
+28496.0,1105.0,131,152.0,2.0,0.0,mercedes,Mercedes
+28516.0,1106.0,131,167.0,2.0,0.0,mercedes,Mercedes
+28536.0,1107.0,131,178.0,2.0,0.0,mercedes,Mercedes
+28546.0,1108.0,131,203.0,2.0,0.0,mercedes,Mercedes
+28556.0,1109.0,131,223.0,2.0,0.0,mercedes,Mercedes
+28566.0,1110.0,131,247.0,2.0,0.0,mercedes,Mercedes
+28576.0,1111.0,131,255.0,2.0,0.0,mercedes,Mercedes
+28586.0,1112.0,131,273.0,2.0,0.0,mercedes,Mercedes
+28596.0,1113.0,131,289.0,2.0,0.0,mercedes,Mercedes
+28606.0,1114.0,131,305.0,2.0,0.0,mercedes,Mercedes
+28656.0,1115.0,131,326.0,2.0,0.0,mercedes,Mercedes
+28666.0,1116.0,131,344.0,2.0,0.0,mercedes,Mercedes
+28676.0,1117.0,131,371.0,2.0,0.0,mercedes,Mercedes
+28686.0,1118.0,131,382.0,2.0,0.0,mercedes,Mercedes
+28696.0,1119.0,131,392.0,2.0,0.0,mercedes,Mercedes
+28706.0,1120.0,131,409.0,2.0,0.0,mercedes,Mercedes
+28715.0,1121.0,131,16.0,3.0,0.0,mercedes,Mercedes
+28725.0,1122.0,131,26.0,4.0,0.0,mercedes,Mercedes
+28745.0,1123.0,131,26.0,4.0,0.0,mercedes,Mercedes
+28755.0,1124.0,131,34.0,4.0,0.0,mercedes,Mercedes
+28775.0,1125.0,131,52.0,4.0,0.0,mercedes,Mercedes
+28785.0,1126.0,131,64.0,4.0,0.0,mercedes,Mercedes
+28795.0,1127.0,131,79.0,4.0,0.0,mercedes,Mercedes
+28805.0,1128.0,131,96.0,4.0,0.0,mercedes,Mercedes
+28815.0,1129.0,131,124.0,4.0,0.0,mercedes,Mercedes
+28825.0,1130.0,131,151.0,4.0,0.0,mercedes,Mercedes
+28835.0,1131.0,131,196.0,4.0,1.0,mercedes,Mercedes
+28845.0,1132.0,131,221.0,4.0,2.0,mercedes,Mercedes
+28855.0,1133.0,131,241.0,4.0,2.0,mercedes,Mercedes
+28875.0,1134.0,131,266.0,4.0,3.0,mercedes,Mercedes
+28885.0,1135.0,131,276.0,4.0,3.0,mercedes,Mercedes
+28895.0,1136.0,131,292.0,4.0,3.0,mercedes,Mercedes
+28905.0,1137.0,131,309.0,4.0,3.0,mercedes,Mercedes
+28915.0,1138.0,131,329.0,4.0,3.0,mercedes,Mercedes
+28925.0,1139.0,131,344.0,4.0,3.0,mercedes,Mercedes
+28935.0,1140.0,131,366.0,4.0,3.0,mercedes,Mercedes
+28945.0,1141.0,131,382.0,4.0,3.0,mercedes,Mercedes
+28955.0,1142.0,131,425.0,4.0,4.0,mercedes,Mercedes
+28965.0,1143.0,131,446.0,4.0,4.0,mercedes,Mercedes
+28975.0,1144.0,131,468.0,4.0,4.0,mercedes,Mercedes
+26942.0,989.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+26982.0,990.0,210,10.0,7.0,0.0,haas,Haas F1 Team
+26972.0,991.0,210,11.0,7.0,0.0,haas,Haas F1 Team
+26992.0,992.0,210,11.0,8.0,0.0,haas,Haas F1 Team
+27002.0,993.0,210,19.0,6.0,0.0,haas,Haas F1 Team
+27012.0,994.0,210,19.0,8.0,0.0,haas,Haas F1 Team
+27022.0,995.0,210,19.0,8.0,0.0,haas,Haas F1 Team
+27032.0,996.0,210,27.0,7.0,0.0,haas,Haas F1 Team
+27042.0,997.0,210,49.0,5.0,0.0,haas,Haas F1 Team
+27052.0,998.0,210,51.0,5.0,0.0,haas,Haas F1 Team
+27062.0,999.0,210,59.0,6.0,0.0,haas,Haas F1 Team
+27072.0,1000.0,210,66.0,5.0,0.0,haas,Haas F1 Team
+27082.0,1001.0,210,76.0,5.0,0.0,haas,Haas F1 Team
+27102.0,1002.0,210,76.0,5.0,0.0,haas,Haas F1 Team
+27112.0,1003.0,210,76.0,5.0,0.0,haas,Haas F1 Team
+27122.0,1004.0,210,80.0,5.0,0.0,haas,Haas F1 Team
+27132.0,1005.0,210,84.0,5.0,0.0,haas,Haas F1 Team
+27152.0,1006.0,210,84.0,5.0,0.0,haas,Haas F1 Team
+27162.0,1007.0,210,84.0,5.0,0.0,haas,Haas F1 Team
+27172.0,1008.0,210,90.0,5.0,0.0,haas,Haas F1 Team
+27182.0,1009.0,210,93.0,5.0,0.0,haas,Haas F1 Team
+27196.0,1010.0,210,8.0,4.0,0.0,haas,Haas F1 Team
+27216.0,1011.0,210,8.0,6.0,0.0,haas,Haas F1 Team
+27226.0,1012.0,210,8.0,6.0,0.0,haas,Haas F1 Team
+27236.0,1013.0,210,8.0,8.0,0.0,haas,Haas F1 Team
+27246.0,1014.0,210,15.0,6.0,0.0,haas,Haas F1 Team
+27256.0,1015.0,210,16.0,6.0,0.0,haas,Haas F1 Team
+27266.0,1016.0,210,16.0,8.0,0.0,haas,Haas F1 Team
+27296.0,1017.0,210,16.0,9.0,0.0,haas,Haas F1 Team
+27306.0,1018.0,210,16.0,9.0,0.0,haas,Haas F1 Team
+27316.0,1019.0,210,16.0,9.0,0.0,haas,Haas F1 Team
+27336.0,1020.0,210,26.0,8.0,0.0,haas,Haas F1 Team
+27346.0,1021.0,210,26.0,9.0,0.0,haas,Haas F1 Team
+27356.0,1022.0,210,26.0,9.0,0.0,haas,Haas F1 Team
+27366.0,1023.0,210,26.0,9.0,0.0,haas,Haas F1 Team
+27376.0,1024.0,210,26.0,9.0,0.0,haas,Haas F1 Team
+27386.0,1025.0,210,28.0,9.0,0.0,haas,Haas F1 Team
+27416.0,1026.0,210,28.0,9.0,0.0,haas,Haas F1 Team
+27426.0,1027.0,210,28.0,9.0,0.0,haas,Haas F1 Team
+27436.0,1028.0,210,28.0,9.0,0.0,haas,Haas F1 Team
+27446.0,1029.0,210,28.0,9.0,0.0,haas,Haas F1 Team
+27456.0,1030.0,210,28.0,9.0,0.0,haas,Haas F1 Team
+27522.0,1034.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27582.0,1031.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27492.0,1032.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27512.0,1033.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27532.0,1035.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27542.0,1036.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27552.0,1037.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27562.0,1038.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27572.0,1039.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27592.0,1040.0,210,1.0,9.0,0.0,haas,Haas F1 Team
+27602.0,1041.0,210,3.0,9.0,0.0,haas,Haas F1 Team
+27612.0,1042.0,210,3.0,9.0,0.0,haas,Haas F1 Team
+27622.0,1043.0,210,3.0,9.0,0.0,haas,Haas F1 Team
+27632.0,1044.0,210,3.0,9.0,0.0,haas,Haas F1 Team
+27642.0,1045.0,210,3.0,9.0,0.0,haas,Haas F1 Team
+27652.0,1046.0,210,3.0,9.0,0.0,haas,Haas F1 Team
+27662.0,1047.0,210,3.0,9.0,0.0,haas,Haas F1 Team
+27912.0,1051.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27682.0,1052.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27712.0,1053.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27722.0,1054.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27732.0,1055.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27742.0,1056.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27752.0,1057.0,210,0.0,9.0,0.0,haas,Haas F1 Team
+27762.0,1059.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27772.0,1058.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27792.0,1060.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27802.0,1061.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27822.0,1062.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27832.0,1063.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27842.0,1064.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27852.0,1065.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27862.0,1066.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27872.0,1067.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27882.0,1069.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27892.0,1070.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27902.0,1071.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27922.0,1072.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+27932.0,1073.0,210,0.0,10.0,0.0,haas,Haas F1 Team
+28135.0,1074.0,210,10.0,3.0,0.0,haas,Haas F1 Team
+28145.0,1075.0,210,12.0,5.0,0.0,haas,Haas F1 Team
+28155.0,1076.0,210,12.0,7.0,0.0,haas,Haas F1 Team
+28165.0,1077.0,210,15.0,8.0,0.0,haas,Haas F1 Team
+28175.0,1078.0,210,15.0,8.0,0.0,haas,Haas F1 Team
+28185.0,1079.0,210,15.0,8.0,0.0,haas,Haas F1 Team
+28195.0,1080.0,210,15.0,8.0,0.0,haas,Haas F1 Team
+28205.0,1081.0,210,15.0,8.0,0.0,haas,Haas F1 Team
+28225.0,1082.0,210,15.0,9.0,0.0,haas,Haas F1 Team
+28235.0,1083.0,210,20.0,8.0,0.0,haas,Haas F1 Team
+28245.0,1084.0,210,34.0,7.0,0.0,haas,Haas F1 Team
+28255.0,1085.0,210,34.0,7.0,0.0,haas,Haas F1 Team
+28265.0,1086.0,210,34.0,7.0,0.0,haas,Haas F1 Team
+28275.0,1087.0,210,34.0,7.0,0.0,haas,Haas F1 Team
+28285.0,1088.0,210,34.0,7.0,0.0,haas,Haas F1 Team
+28295.0,1089.0,210,34.0,7.0,0.0,haas,Haas F1 Team
+28305.0,1091.0,210,34.0,8.0,0.0,haas,Haas F1 Team
+28325.0,1092.0,210,34.0,8.0,0.0,haas,Haas F1 Team
+28365.0,1093.0,210,36.0,8.0,0.0,haas,Haas F1 Team
+28375.0,1094.0,210,36.0,8.0,0.0,haas,Haas F1 Team
+28385.0,1095.0,210,37.0,8.0,0.0,haas,Haas F1 Team
+28395.0,1096.0,210,37.0,8.0,0.0,haas,Haas F1 Team
+28491.0,1098.0,210,0.0,9.0,0.0,haas,Haas F1 Team
+28441.0,1099.0,210,1.0,7.0,0.0,haas,Haas F1 Team
+28451.0,1100.0,210,7.0,7.0,0.0,haas,Haas F1 Team
+28461.0,1101.0,210,7.0,7.0,0.0,haas,Haas F1 Team
+28471.0,1102.0,210,8.0,7.0,0.0,haas,Haas F1 Team
+28481.0,1104.0,210,8.0,7.0,0.0,haas,Haas F1 Team
+28501.0,1105.0,210,8.0,7.0,0.0,haas,Haas F1 Team
+28521.0,1106.0,210,8.0,8.0,0.0,haas,Haas F1 Team
+28541.0,1107.0,210,11.0,7.0,0.0,haas,Haas F1 Team
+28551.0,1108.0,210,11.0,8.0,0.0,haas,Haas F1 Team
+28561.0,1109.0,210,11.0,8.0,0.0,haas,Haas F1 Team
+28571.0,1110.0,210,11.0,8.0,0.0,haas,Haas F1 Team
+28581.0,1111.0,210,11.0,8.0,0.0,haas,Haas F1 Team
+28591.0,1112.0,210,11.0,8.0,0.0,haas,Haas F1 Team
+28601.0,1113.0,210,12.0,8.0,0.0,haas,Haas F1 Team
+28611.0,1114.0,210,12.0,8.0,0.0,haas,Haas F1 Team
+28661.0,1115.0,210,12.0,9.0,0.0,haas,Haas F1 Team
+28671.0,1116.0,210,12.0,9.0,0.0,haas,Haas F1 Team
+28681.0,1117.0,210,12.0,10.0,0.0,haas,Haas F1 Team
+28691.0,1118.0,210,12.0,10.0,0.0,haas,Haas F1 Team
+28701.0,1119.0,210,12.0,10.0,0.0,haas,Haas F1 Team
+28711.0,1120.0,210,12.0,10.0,0.0,haas,Haas F1 Team
+28719.0,1121.0,210,0.0,7.0,0.0,haas,Haas F1 Team
+28729.0,1122.0,210,1.0,6.0,0.0,haas,Haas F1 Team
+28749.0,1123.0,210,4.0,7.0,0.0,haas,Haas F1 Team
+28759.0,1124.0,210,4.0,7.0,0.0,haas,Haas F1 Team
+28779.0,1125.0,210,5.0,7.0,0.0,haas,Haas F1 Team
+28789.0,1126.0,210,7.0,7.0,0.0,haas,Haas F1 Team
+28799.0,1127.0,210,7.0,7.0,0.0,haas,Haas F1 Team
+28809.0,1128.0,210,7.0,7.0,0.0,haas,Haas F1 Team
+28819.0,1129.0,210,7.0,7.0,0.0,haas,Haas F1 Team
+28829.0,1130.0,210,7.0,8.0,0.0,haas,Haas F1 Team
+28839.0,1131.0,210,19.0,7.0,0.0,haas,Haas F1 Team
+28849.0,1132.0,210,27.0,7.0,0.0,haas,Haas F1 Team
+28859.0,1133.0,210,27.0,7.0,0.0,haas,Haas F1 Team
+28879.0,1134.0,210,27.0,7.0,0.0,haas,Haas F1 Team
+28889.0,1135.0,210,27.0,7.0,0.0,haas,Haas F1 Team
+28899.0,1136.0,210,28.0,7.0,0.0,haas,Haas F1 Team
+28909.0,1137.0,210,29.0,7.0,0.0,haas,Haas F1 Team
+28919.0,1138.0,210,31.0,7.0,0.0,haas,Haas F1 Team
+28929.0,1139.0,210,38.0,6.0,0.0,haas,Haas F1 Team
+28939.0,1140.0,210,46.0,6.0,0.0,haas,Haas F1 Team
+28949.0,1141.0,210,46.0,7.0,0.0,haas,Haas F1 Team
+28959.0,1142.0,210,50.0,6.0,0.0,haas,Haas F1 Team
+28969.0,1143.0,210,54.0,7.0,0.0,haas,Haas F1 Team
+28979.0,1144.0,210,58.0,7.0,0.0,haas,Haas F1 Team
+27199.0,1010.0,211,2.0,7.0,0.0,racing_point,Racing Point
+27219.0,1011.0,211,3.0,9.0,0.0,racing_point,Racing Point
+27229.0,1012.0,211,7.0,8.0,0.0,racing_point,Racing Point
+27239.0,1013.0,211,17.0,5.0,0.0,racing_point,Racing Point
+27249.0,1014.0,211,17.0,5.0,0.0,racing_point,Racing Point
+27259.0,1015.0,211,17.0,5.0,0.0,racing_point,Racing Point
+27269.0,1016.0,211,19.0,6.0,0.0,racing_point,Racing Point
+27299.0,1017.0,211,19.0,6.0,0.0,racing_point,Racing Point
+27309.0,1018.0,211,19.0,7.0,0.0,racing_point,Racing Point
+27319.0,1019.0,211,19.0,7.0,0.0,racing_point,Racing Point
+27339.0,1020.0,211,31.0,7.0,0.0,racing_point,Racing Point
+27349.0,1021.0,211,31.0,8.0,0.0,racing_point,Racing Point
+27359.0,1022.0,211,40.0,7.0,0.0,racing_point,Racing Point
+27369.0,1023.0,211,46.0,7.0,0.0,racing_point,Racing Point
+27379.0,1024.0,211,46.0,7.0,0.0,racing_point,Racing Point
+27389.0,1025.0,211,52.0,7.0,0.0,racing_point,Racing Point
+27419.0,1026.0,211,58.0,7.0,0.0,racing_point,Racing Point
+27429.0,1027.0,211,64.0,7.0,0.0,racing_point,Racing Point
+27439.0,1028.0,211,65.0,6.0,0.0,racing_point,Racing Point
+27449.0,1029.0,211,67.0,7.0,0.0,racing_point,Racing Point
+27459.0,1030.0,211,73.0,7.0,0.0,racing_point,Racing Point
+27516.0,1034.0,211,42.0,5.0,0.0,racing_point,Racing Point
+27576.0,1031.0,211,8.0,4.0,0.0,racing_point,Racing Point
+27486.0,1032.0,211,22.0,4.0,0.0,racing_point,Racing Point
+27506.0,1033.0,211,40.0,4.0,0.0,racing_point,Racing Point
+27526.0,1035.0,211,41.0,5.0,0.0,racing_point,Racing Point
+27536.0,1036.0,211,63.0,3.0,0.0,racing_point,Racing Point
+27546.0,1037.0,211,66.0,4.0,0.0,racing_point,Racing Point
+27556.0,1038.0,211,82.0,4.0,0.0,racing_point,Racing Point
+27566.0,1039.0,211,92.0,4.0,0.0,racing_point,Racing Point
+27586.0,1040.0,211,104.0,4.0,0.0,racing_point,Racing Point
+27596.0,1041.0,211,120.0,3.0,0.0,racing_point,Racing Point
+27606.0,1042.0,211,126.0,3.0,0.0,racing_point,Racing Point
+27616.0,1043.0,211,134.0,5.0,0.0,racing_point,Racing Point
+27626.0,1044.0,211,154.0,3.0,0.0,racing_point,Racing Point
+27636.0,1045.0,211,154.0,4.0,0.0,racing_point,Racing Point
+27646.0,1046.0,211,194.0,3.0,1.0,racing_point,Racing Point
+27656.0,1047.0,211,195.0,4.0,1.0,racing_point,Racing Point
+27517.0,1034.0,213,13.0,7.0,0.0,alphatauri,AlphaTauri
+27577.0,1031.0,213,6.0,5.0,0.0,alphatauri,AlphaTauri
+27487.0,1032.0,213,7.0,7.0,0.0,alphatauri,AlphaTauri
+27507.0,1033.0,213,7.0,7.0,0.0,alphatauri,AlphaTauri
+27527.0,1035.0,213,14.0,7.0,0.0,alphatauri,AlphaTauri
+27537.0,1036.0,213,16.0,7.0,0.0,alphatauri,AlphaTauri
+27547.0,1037.0,213,20.0,7.0,0.0,alphatauri,AlphaTauri
+27557.0,1038.0,213,47.0,7.0,1.0,alphatauri,AlphaTauri
+27567.0,1039.0,213,53.0,7.0,1.0,alphatauri,AlphaTauri
+27587.0,1040.0,213,59.0,7.0,1.0,alphatauri,AlphaTauri
+27597.0,1041.0,213,67.0,7.0,1.0,alphatauri,AlphaTauri
+27607.0,1042.0,213,77.0,7.0,1.0,alphatauri,AlphaTauri
+27617.0,1043.0,213,89.0,7.0,1.0,alphatauri,AlphaTauri
+27627.0,1044.0,213,89.0,7.0,1.0,alphatauri,AlphaTauri
+27637.0,1045.0,213,97.0,7.0,1.0,alphatauri,AlphaTauri
+27647.0,1046.0,213,103.0,7.0,1.0,alphatauri,AlphaTauri
+27657.0,1047.0,213,107.0,7.0,1.0,alphatauri,AlphaTauri
+27907.0,1051.0,213,112.0,6.0,0.0,alphatauri,AlphaTauri
+27677.0,1052.0,213,2.0,5.0,0.0,alphatauri,AlphaTauri
+27707.0,1053.0,213,8.0,5.0,0.0,alphatauri,AlphaTauri
+27717.0,1054.0,213,9.0,6.0,0.0,alphatauri,AlphaTauri
+27727.0,1055.0,213,10.0,6.0,0.0,alphatauri,AlphaTauri
+27737.0,1056.0,213,18.0,6.0,0.0,alphatauri,AlphaTauri
+27747.0,1057.0,213,39.0,5.0,0.0,alphatauri,AlphaTauri
+27757.0,1059.0,213,45.0,5.0,0.0,alphatauri,AlphaTauri
+27767.0,1058.0,213,46.0,5.0,0.0,alphatauri,AlphaTauri
+27787.0,1060.0,213,48.0,5.0,0.0,alphatauri,AlphaTauri
+27797.0,1061.0,213,49.0,5.0,0.0,alphatauri,AlphaTauri
+27817.0,1062.0,213,68.0,6.0,0.0,alphatauri,AlphaTauri
+27827.0,1063.0,213,72.0,6.0,0.0,alphatauri,AlphaTauri
+27837.0,1064.0,213,84.0,6.0,0.0,alphatauri,AlphaTauri
+27847.0,1065.0,213,84.0,6.0,0.0,alphatauri,AlphaTauri
+27857.0,1066.0,213,84.0,6.0,0.0,alphatauri,AlphaTauri
+27867.0,1067.0,213,92.0,6.0,0.0,alphatauri,AlphaTauri
+27877.0,1069.0,213,94.0,6.0,0.0,alphatauri,AlphaTauri
+27887.0,1070.0,213,106.0,6.0,0.0,alphatauri,AlphaTauri
+27897.0,1071.0,213,112.0,6.0,0.0,alphatauri,AlphaTauri
+27917.0,1072.0,213,120.0,6.0,0.0,alphatauri,AlphaTauri
+27927.0,1073.0,213,142.0,6.0,0.0,alphatauri,AlphaTauri
+28138.0,1074.0,213,4.0,6.0,0.0,alphatauri,AlphaTauri
+28148.0,1075.0,213,8.0,7.0,0.0,alphatauri,AlphaTauri
+28158.0,1076.0,213,10.0,8.0,0.0,alphatauri,AlphaTauri
+28168.0,1077.0,213,16.0,7.0,0.0,alphatauri,AlphaTauri
+28178.0,1078.0,213,16.0,7.0,0.0,alphatauri,AlphaTauri
+28188.0,1079.0,213,17.0,7.0,0.0,alphatauri,AlphaTauri
+28198.0,1080.0,213,17.0,7.0,0.0,alphatauri,AlphaTauri
+28208.0,1081.0,213,27.0,7.0,0.0,alphatauri,AlphaTauri
+28228.0,1082.0,213,27.0,7.0,0.0,alphatauri,AlphaTauri
+28238.0,1083.0,213,27.0,7.0,0.0,alphatauri,AlphaTauri
+28248.0,1084.0,213,27.0,8.0,0.0,alphatauri,AlphaTauri
+28258.0,1085.0,213,27.0,8.0,0.0,alphatauri,AlphaTauri
+28268.0,1086.0,213,27.0,8.0,0.0,alphatauri,AlphaTauri
+28278.0,1087.0,213,29.0,8.0,0.0,alphatauri,AlphaTauri
+28288.0,1088.0,213,29.0,8.0,0.0,alphatauri,AlphaTauri
+28298.0,1089.0,213,33.0,8.0,0.0,alphatauri,AlphaTauri
+28308.0,1091.0,213,34.0,9.0,0.0,alphatauri,AlphaTauri
+28328.0,1092.0,213,34.0,9.0,0.0,alphatauri,AlphaTauri
+28368.0,1093.0,213,35.0,9.0,0.0,alphatauri,AlphaTauri
+28378.0,1094.0,213,35.0,9.0,0.0,alphatauri,AlphaTauri
+28388.0,1095.0,213,35.0,9.0,0.0,alphatauri,AlphaTauri
+28398.0,1096.0,213,35.0,9.0,0.0,alphatauri,AlphaTauri
+28490.0,1098.0,213,0.0,8.0,0.0,alphatauri,AlphaTauri
+28440.0,1099.0,213,0.0,9.0,0.0,alphatauri,AlphaTauri
+28450.0,1100.0,213,1.0,9.0,0.0,alphatauri,AlphaTauri
+28460.0,1101.0,213,2.0,9.0,0.0,alphatauri,AlphaTauri
+28470.0,1102.0,213,2.0,9.0,0.0,alphatauri,AlphaTauri
+28480.0,1104.0,213,2.0,9.0,0.0,alphatauri,AlphaTauri
+28500.0,1105.0,213,2.0,9.0,0.0,alphatauri,AlphaTauri
+28520.0,1106.0,213,2.0,10.0,0.0,alphatauri,AlphaTauri
+28540.0,1107.0,213,2.0,10.0,0.0,alphatauri,AlphaTauri
+28550.0,1108.0,213,2.0,10.0,0.0,alphatauri,AlphaTauri
+28560.0,1109.0,213,2.0,10.0,0.0,alphatauri,AlphaTauri
+28570.0,1110.0,213,3.0,10.0,0.0,alphatauri,AlphaTauri
+28580.0,1111.0,213,3.0,10.0,0.0,alphatauri,AlphaTauri
+28590.0,1112.0,213,3.0,10.0,0.0,alphatauri,AlphaTauri
+28600.0,1113.0,213,5.0,10.0,0.0,alphatauri,AlphaTauri
+28610.0,1114.0,213,5.0,10.0,0.0,alphatauri,AlphaTauri
+28660.0,1115.0,213,5.0,10.0,0.0,alphatauri,AlphaTauri
+28670.0,1116.0,213,10.0,10.0,0.0,alphatauri,AlphaTauri
+28680.0,1117.0,213,16.0,8.0,0.0,alphatauri,AlphaTauri
+28690.0,1118.0,213,21.0,8.0,0.0,alphatauri,AlphaTauri
+28700.0,1119.0,213,21.0,8.0,0.0,alphatauri,AlphaTauri
+28710.0,1120.0,213,25.0,8.0,0.0,alphatauri,AlphaTauri
+27910.0,1051.0,214,137.0,5.0,1.0,alpine,Alpine F1 Team
+27680.0,1052.0,214,0.0,8.0,0.0,alpine,Alpine F1 Team
+27710.0,1053.0,214,3.0,7.0,0.0,alpine,Alpine F1 Team
+27720.0,1054.0,214,13.0,5.0,0.0,alpine,Alpine F1 Team
+27730.0,1055.0,214,15.0,5.0,0.0,alpine,Alpine F1 Team
+27740.0,1056.0,214,17.0,7.0,0.0,alpine,Alpine F1 Team
+27750.0,1057.0,214,25.0,7.0,0.0,alpine,Alpine F1 Team
+27760.0,1059.0,214,29.0,7.0,0.0,alpine,Alpine F1 Team
+27770.0,1058.0,214,31.0,7.0,0.0,alpine,Alpine F1 Team
+27790.0,1060.0,214,32.0,7.0,0.0,alpine,Alpine F1 Team
+27800.0,1061.0,214,40.0,7.0,0.0,alpine,Alpine F1 Team
+27820.0,1062.0,214,77.0,5.0,1.0,alpine,Alpine F1 Team
+27830.0,1063.0,214,80.0,5.0,1.0,alpine,Alpine F1 Team
+27840.0,1064.0,214,90.0,5.0,1.0,alpine,Alpine F1 Team
+27850.0,1065.0,214,95.0,5.0,1.0,alpine,Alpine F1 Team
+27860.0,1066.0,214,103.0,5.0,1.0,alpine,Alpine F1 Team
+27870.0,1067.0,214,104.0,5.0,1.0,alpine,Alpine F1 Team
+27880.0,1069.0,214,104.0,5.0,1.0,alpine,Alpine F1 Team
+27890.0,1070.0,214,106.0,5.0,1.0,alpine,Alpine F1 Team
+27900.0,1071.0,214,112.0,5.0,1.0,alpine,Alpine F1 Team
+27920.0,1072.0,214,149.0,5.0,1.0,alpine,Alpine F1 Team
+27930.0,1073.0,214,155.0,5.0,1.0,alpine,Alpine F1 Team
+28137.0,1074.0,214,8.0,5.0,0.0,alpine,Alpine F1 Team
+28147.0,1075.0,214,16.0,4.0,0.0,alpine,Alpine F1 Team
+28157.0,1076.0,214,22.0,5.0,0.0,alpine,Alpine F1 Team
+28167.0,1077.0,214,22.0,6.0,0.0,alpine,Alpine F1 Team
+28177.0,1078.0,214,26.0,6.0,0.0,alpine,Alpine F1 Team
+28187.0,1079.0,214,34.0,6.0,0.0,alpine,Alpine F1 Team
+28197.0,1080.0,214,40.0,6.0,0.0,alpine,Alpine F1 Team
+28207.0,1081.0,214,47.0,5.0,0.0,alpine,Alpine F1 Team
+28227.0,1082.0,214,57.0,5.0,0.0,alpine,Alpine F1 Team
+28237.0,1083.0,214,67.0,5.0,0.0,alpine,Alpine F1 Team
+28247.0,1084.0,214,81.0,5.0,0.0,alpine,Alpine F1 Team
+28257.0,1085.0,214,93.0,4.0,0.0,alpine,Alpine F1 Team
+28267.0,1086.0,214,99.0,4.0,0.0,alpine,Alpine F1 Team
+28277.0,1087.0,214,115.0,4.0,0.0,alpine,Alpine F1 Team
+28287.0,1088.0,214,125.0,4.0,0.0,alpine,Alpine F1 Team
+28297.0,1089.0,214,125.0,4.0,0.0,alpine,Alpine F1 Team
+28307.0,1091.0,214,125.0,5.0,0.0,alpine,Alpine F1 Team
+28327.0,1092.0,214,143.0,4.0,0.0,alpine,Alpine F1 Team
+28367.0,1093.0,214,149.0,4.0,0.0,alpine,Alpine F1 Team
+28377.0,1094.0,214,153.0,4.0,0.0,alpine,Alpine F1 Team
+28387.0,1095.0,214,167.0,4.0,0.0,alpine,Alpine F1 Team
+28397.0,1096.0,214,173.0,4.0,0.0,alpine,Alpine F1 Team
+28488.0,1098.0,214,2.0,6.0,0.0,alpine,Alpine F1 Team
+28438.0,1099.0,214,8.0,5.0,0.0,alpine,Alpine F1 Team
+28448.0,1100.0,214,8.0,6.0,0.0,alpine,Alpine F1 Team
+28458.0,1101.0,214,8.0,6.0,0.0,alpine,Alpine F1 Team
+28468.0,1102.0,214,14.0,6.0,0.0,alpine,Alpine F1 Team
+28478.0,1104.0,214,35.0,5.0,0.0,alpine,Alpine F1 Team
+28498.0,1105.0,214,40.0,5.0,0.0,alpine,Alpine F1 Team
+28518.0,1106.0,214,44.0,5.0,0.0,alpine,Alpine F1 Team
+28538.0,1107.0,214,47.0,5.0,0.0,alpine,Alpine F1 Team
+28548.0,1108.0,214,47.0,6.0,0.0,alpine,Alpine F1 Team
+28558.0,1109.0,214,47.0,6.0,0.0,alpine,Alpine F1 Team
+28568.0,1110.0,214,57.0,6.0,0.0,alpine,Alpine F1 Team
+28578.0,1111.0,214,73.0,6.0,0.0,alpine,Alpine F1 Team
+28588.0,1112.0,214,73.0,6.0,0.0,alpine,Alpine F1 Team
+28598.0,1113.0,214,81.0,6.0,0.0,alpine,Alpine F1 Team
+28608.0,1114.0,214,84.0,6.0,0.0,alpine,Alpine F1 Team
+28658.0,1115.0,214,90.0,6.0,0.0,alpine,Alpine F1 Team
+28668.0,1116.0,214,100.0,6.0,0.0,alpine,Alpine F1 Team
+28678.0,1117.0,214,101.0,6.0,0.0,alpine,Alpine F1 Team
+28688.0,1118.0,214,108.0,6.0,0.0,alpine,Alpine F1 Team
+28698.0,1119.0,214,120.0,6.0,0.0,alpine,Alpine F1 Team
+28708.0,1120.0,214,120.0,6.0,0.0,alpine,Alpine F1 Team
+28722.0,1121.0,214,0.0,10.0,0.0,alpine,Alpine F1 Team
+28732.0,1122.0,214,0.0,10.0,0.0,alpine,Alpine F1 Team
+28752.0,1123.0,214,0.0,10.0,0.0,alpine,Alpine F1 Team
+28762.0,1124.0,214,0.0,10.0,0.0,alpine,Alpine F1 Team
+28782.0,1125.0,214,0.0,9.0,0.0,alpine,Alpine F1 Team
+28792.0,1126.0,214,1.0,8.0,0.0,alpine,Alpine F1 Team
+28802.0,1127.0,214,1.0,8.0,0.0,alpine,Alpine F1 Team
+28812.0,1128.0,214,2.0,9.0,0.0,alpine,Alpine F1 Team
+28822.0,1129.0,214,5.0,8.0,0.0,alpine,Alpine F1 Team
+28832.0,1130.0,214,8.0,7.0,0.0,alpine,Alpine F1 Team
+28842.0,1131.0,214,9.0,8.0,0.0,alpine,Alpine F1 Team
+28852.0,1132.0,214,9.0,8.0,0.0,alpine,Alpine F1 Team
+28862.0,1133.0,214,9.0,8.0,0.0,alpine,Alpine F1 Team
+28882.0,1134.0,214,11.0,8.0,0.0,alpine,Alpine F1 Team
+28892.0,1135.0,214,13.0,8.0,0.0,alpine,Alpine F1 Team
+28902.0,1136.0,214,13.0,8.0,0.0,alpine,Alpine F1 Team
+28912.0,1137.0,214,13.0,9.0,0.0,alpine,Alpine F1 Team
+28922.0,1138.0,214,13.0,9.0,0.0,alpine,Alpine F1 Team
+28932.0,1139.0,214,13.0,9.0,0.0,alpine,Alpine F1 Team
+28942.0,1140.0,214,14.0,9.0,0.0,alpine,Alpine F1 Team
+28952.0,1141.0,214,49.0,6.0,0.0,alpine,Alpine F1 Team
+28962.0,1142.0,214,49.0,7.0,0.0,alpine,Alpine F1 Team
+28972.0,1143.0,214,59.0,6.0,0.0,alpine,Alpine F1 Team
+28982.0,1144.0,214,65.0,6.0,0.0,alpine,Alpine F1 Team
+28720.0,1121.0,215,0.0,8.0,0.0,rb,RB F1 Team
+28730.0,1122.0,215,0.0,9.0,0.0,rb,RB F1 Team
+28750.0,1123.0,215,6.0,6.0,0.0,rb,RB F1 Team
+28760.0,1124.0,215,7.0,6.0,0.0,rb,RB F1 Team
+28780.0,1125.0,215,7.0,6.0,0.0,rb,RB F1 Team
+28790.0,1126.0,215,19.0,6.0,0.0,rb,RB F1 Team
+28800.0,1127.0,215,20.0,6.0,0.0,rb,RB F1 Team
+28810.0,1128.0,215,24.0,6.0,0.0,rb,RB F1 Team
+28820.0,1129.0,215,28.0,6.0,0.0,rb,RB F1 Team
+28830.0,1130.0,215,28.0,6.0,0.0,rb,RB F1 Team
+28840.0,1131.0,215,30.0,6.0,0.0,rb,RB F1 Team
+28850.0,1132.0,215,31.0,6.0,0.0,rb,RB F1 Team
+28860.0,1133.0,215,33.0,6.0,0.0,rb,RB F1 Team
+28880.0,1134.0,215,34.0,6.0,0.0,rb,RB F1 Team
+28890.0,1135.0,215,34.0,6.0,0.0,rb,RB F1 Team
+28900.0,1136.0,215,34.0,6.0,0.0,rb,RB F1 Team
+28910.0,1137.0,215,34.0,6.0,0.0,rb,RB F1 Team
+28920.0,1138.0,215,34.0,6.0,0.0,rb,RB F1 Team
+28930.0,1139.0,215,36.0,7.0,0.0,rb,RB F1 Team
+28940.0,1140.0,215,36.0,7.0,0.0,rb,RB F1 Team
+28950.0,1141.0,215,44.0,8.0,0.0,rb,RB F1 Team
+28960.0,1142.0,215,46.0,8.0,0.0,rb,RB F1 Team
+28970.0,1143.0,215,46.0,8.0,0.0,rb,RB F1 Team
+28980.0,1144.0,215,46.0,8.0,0.0,rb,RB F1 Team
